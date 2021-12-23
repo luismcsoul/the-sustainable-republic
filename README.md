@@ -1,0 +1,2 @@
+# THE-BLOCKCHAIN-REPUBLIC
+This is an ongoing probabilistic research on the future both dystopian and utopian of the ongoing data/transactions ledger/control. Since the outcome would be necessary within this framework, I hope the project generates enough traction to signal scape routes to the natural corporative/monopolistic tendencies of every endeavour. All the people working on the project will be paid in equity and loyalties according to their contributions. Your loyalties last during all your lifetime and they can't be alienated. 
