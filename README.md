@@ -80,7 +80,7 @@ Taxation will be executed according to the enviromental and health impacts of th
 For example: a company selling packaged food would have to pay for both the sugar (or sweetened) content (and all other ingredientes linked to health diseases) and the plastic used in the wrapping. 
 This tax would be then be transferred to the customer who would then be able to avoid this tax by buying fresh raw ingredientes with a tax related only for the "livecycle assessment" (an improved/more detailed alternative to the 'food miles'). 
 
-Notice how under this system there are people paying zero taxes: households off the grid, growing vegetables with a single property/family business. 
+Notice how under this system there are people paying zero taxes: households off the grid, growing vegetables with a single property/family business. Using transportation without fossil fuels
 
 
 RELEASING THE BUDGET 
