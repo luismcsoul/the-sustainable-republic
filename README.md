@@ -51,7 +51,7 @@ The final objective is to prevent structuraly that any individual with delirium 
 
 The farms are currently a system of linear exploitation to perpetuate stability within archaic models of supremasy and titulage (note how the word royal means both real/fact and kingship) while at the same time keep as many 'undesirables' outside of the borders.    
 Outsiders, are useful as producers and consumers, but not as peers. 
-The concept of 'kind' is as restricted as possible in terms of proximity in the biological evolution kingdom, country of origin, race, gender, age, religious, political and sport affiliations.
+The concept of 'kind' is as restricted as possible in terms of proximity in the biological evolutionary kingdom, country of origin, race, gender, age, religious, political and sport affiliations.
 This goes with the fact that people are forced to identify themselves within these categories despite not wanting to be labeled or disminished.
 The restriction of reality/check images/facts is essential: the animals being killed, the indigenous peoples being killed and the local environmental activists being killed must be censored and silenced in order to keep the overall streamline model working. 
 
@@ -74,17 +74,20 @@ Your loyalties last during all your lifetime and they can't be alienated.
 Companies can't auction more than 49% of their equity as funding strategy and therefore 51% should always remain creditable to the employees proportional to their contributions.
 
 CROSSED/CHECKED TAXBOOK
-Avoiding tax dummy companies 
+Dummy companies exposed
 
 Taxation will be executed according to the enviromental and health impacts of the supply chain/operation of the company. 
 For example: a company selling packaged food would have to pay for both the sugar (or sweetened) content (and all other ingredientes linked to health diseases) and the plastic used in the wrapping. 
 This tax would be then be transferred to the customer who would then be able to avoid this tax by buying fresh raw ingredientes with a tax related only for the "livecycle assessment" (an improved/more detailed alternative to the 'food miles'). 
 
-Notice how under this system there are people paying zero taxes: households off the grid, growing vegetables with a single property/family business. Using transportation without fossil fuels
+THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES
+Things that work on scientific basis, like vaning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
+
+Notice how under this system there are people paying zero taxes: households off the grid, growing vegetables with a single property/family business. Using transportation without fossil fuels. There is the posibility that there would be counter/tax rewards for 
 
 
 RELEASING THE BUDGET 
-
+Smartcontract locked resources. 
 
 
 
