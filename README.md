@@ -5,7 +5,7 @@
 2. Currently the term refers to ledgers for data/transfers within a mass datification process: 
 absolutely everything including volume of air inhaled, daily composition of the human excrement and all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors will be milked/to/exhaustion. 
 
-3. A 'sort of' excel/blockchain would be needed to register all these data/transactions since confirmed pregnacy until legal/biological death.  
+3. A 'sort of' excel/blockchain would be needed to register all these data/transactions since confirmed pregnacy until legal/biological death (and the disposition of the corpe and distribution of the belongings of the person who just passed).  
 
 
 4. This is a template for a dystopian ledger/control system and, by extension, a way to perpetuate the priviledges of the ultra high-net-worth individuals. 
