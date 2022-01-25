@@ -37,8 +37,6 @@ FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM".
 
 15. It is our responsibility as ideologists to study every country/farm and select/handpick from them the best proven policies (one by one) to construct a republic with the best features of existing republics and added features currently not being implemented. 
 
-16.After analysing the external debt to GDP ratio, we could conclude that a model based on a direct relationship between the household, the metropolis, the island/continent and the world would significantly reduce the money/loss via inefficiency. 
-
 
 FIRST PART II: A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRACY.
 
@@ -68,7 +66,7 @@ CORPORATIVE STRUCTURES: THE OPPOSITE OF THE DISNEY MODEL
 
 Corporate accountability: The companies participant in frauds will be liquidated and the 
 
-
+In the same way that crypto currencies deal with the accumulation of power in validators by progressively reducing the rewards, we should thing about corporation in a way that it becomes unprofitable to grow further than a certain point. 
 
 Imagine all the team in the production of a movie or videogame (including extras, cleaning and security personal) gets paid in equity and loyalties proportionally according to their contributions. 
 
