@@ -61,51 +61,54 @@ SECOND PART: A REPUBLIC THOUGHT AS ENVIRONMENTALLY ORIENTED SUSTAINABLE GOVERNAN
 
 
 CORPORATIVE STRUCTURES PART 1: ANTI MONOPOLISTIC LAWS:
-In the same way that crypto currencies deal with the accumulation of power in validators by progressively reducing the rewards, corporation would be planned as  unprofitable to grow further than a certain point. 
 
-All the team in the production of a movie or videogame (including extras, cleaning and security personal) gets paid in equity and loyalties proportionally according to their contributions. 
+26. In the same way that crypto currencies deal with the accumulation of power in validators by progressively reducing the rewards, corporation would be planned as unprofitable to grow further than a certain point. 
 
-For example: Delivery drivers, packaging employees, cleaning and security personal of Amazon is paid in equity and loyalties.
+27. All the team in the production of a movie or videogame (including extras, cleaning and security personal) gets paid in equity and royalties proportionally according to their contributions. 
 
-An economic model debt free.
+28. Your royalties last during all your lifetime and can't be alienated.
 
-Your royalties last during all your lifetime, they are hereditary and can't be alienated.
+29. Once you have died, the royalties goes to the entire human population, configuring a minimum salary background for everyone in the republic. 
 
-Companies can't auction more than 49% of their equity as funding strategy and therefore 51% should always remain creditable to the employees proportional to their contributions.
+30.Companies can't auction more than 49% of their equity as funding strategy and therefore 51% should always remain creditable to the employees proportional to their contributions.
 
-Once you leave the company your equity will be transferred to the public shares and the correponding internal shares will be burned in order to rebalance the equity among the updated employees. 
+31. Once you leave the company your equity will be transferred to the public shares and the correponding internal shares will be burned in order to rebalance the equity among the updated employees. 
 
 TAXES
 
-No income tax. 
+32. No income tax. 
 
-All revenue are collected via spending (Value Added Tax):
-Taxation will be executed according to the enviromental and health impacts of the supply chain/operation of the company. 
-For example: a company selling packaged food would have to pay for both the sugar (or sweetened) content (and all other ingredientes linked to health diseases) and the plastic used in the wrapping. 
+33. All revenue are collected via spending (Value Added Tax):
 
-A transportation company would have to pay for the gas emitions, etc. 
+34. Taxation will be executed according to the enviromental and health impacts of the supply chain/operation of the company. 
 
-This tax would be then be transferred to the customer who would then be able to avoid this tax by buying fresh local raw ingredientes with a tax related only for the "livecycle assessment" (an improved/more detailed alternative to the 'food miles'). 
+35. For example: a company selling packaged food would have to pay for both the sugar (or sweetened) content (and all other ingredientes linked to health diseases) and the plastic used in the wrapping. 
 
-Recreational drugs, alcohol, cigarretes and sugar are legal and taxed in a way that is sustainable and proportionate to the health implications of its usage. 
+36. A transportation company would have to pay for the gas emitions, etc. 
+
+37. This tax would be then be transferred to the customer  via a taxation on the "livecycle assessment" (an improved/more detailed alternative to the 'food miles'). 
+
+38. Recreational drugs, alcohol, cigarretes and sugar are legal and taxed in a way that is sustainable and proportionate to the health system/managing the implications of its usage. 
 
 SERVICES TAX
-There's a progressive taxation system/subsidy: minimul vital amount of water essential as drinking water 3,7 liters plus 7,3 liters needed to flush the toilet would be free per person in every household.  
+39. There's a progressive taxation system/subsidy: minimul vital amount of water essential as drinking water 3,7 liters plus 7,3 liters needed to flush the toilet would be free per person in every household. Greater amount consumption would be taxed at a greater rate.   
 
 PROPERTY TAX
-Every citizen pays zero tax for one bedroom, one bathroom, one kitchen, one garage, one garden, one dinning room. 
+40. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen, one garage, one garden, one dinning room, one garden and a backward. 
 
-The taxes increase progressively with the number of houses owned, up to a number where the taxation makes the investment inprofitable. 
+41. The taxes increase progressively with the number of houses owned, up to a number where the taxation makes the investment inprofitable. 
 
-Corporations can't own houses. 
+42. Corporations can't own houses. 
 
+43. Every rental is considered de facto rent-to-own.
 
 THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES
 Things that work on scientific basis, like vaning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
 
 Notice how under this system there are people paying zero taxes: households off the grid, growing vegetables with a single property/family business. Using transportation without fossil fuels. 
 
-There is the posibility that there would be (counter/tax) rewards for processing neighboors organic leftovers, plastics, glass, metals, electronics, etc. 
+COUNTER TAXATION:
+Financial payments will be granted for processing neighboors organic leftovers, plastics, glass, metals, electronics, etc. 
 
 
 EXECUTIVE BRANCH
