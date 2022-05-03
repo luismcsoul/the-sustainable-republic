@@ -91,9 +91,11 @@ TAXES
 38. Recreational drugs, alcohol, cigarretes and sugar are legal and taxed in a way that is sustainable and proportionate to the health system/managing the implications of its usage. 
 
 SERVICES TAX
+
 39. There's a progressive taxation system/subsidy: minimul vital amount of water essential as drinking water 3,7 liters plus 7,3 liters needed to flush the toilet would be free per person in every household. Greater amount consumption would be taxed at a greater rate.   
 
 PROPERTY TAX
+
 40. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen, one garage, one garden, one dinning room, one garden and a backward. 
 
 41. The taxes increase progressively with the number of houses owned, up to a number where the taxation makes the investment inprofitable. 
@@ -105,25 +107,34 @@ PROPERTY TAX
 THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES
 Things that work on scientific basis, like vaning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
 
-Notice how under this system there are people paying zero taxes: households off the grid, growing vegetables with a single property/family business. Using transportation without fossil fuels. 
+44. Geographic areas would be ecologically alighned to tributary river systems, where city states are responsible to pay compensation to the city states inmediate under them regarding the plastic and chemical polution in the water. 
 
 COUNTER TAXATION:
-Financial payments will be granted for processing neighboors organic leftovers, plastics, glass, metals, electronics, etc. 
-
+45. Financial payments will be granted for processing neighboors organic leftovers, plastics, glass, metals, electronics, etc. 
 
 EXECUTIVE BRANCH
+46. The fundamental training for all professional private administrators is essential to guarantee that, only those with the experience (19 years) AND the vocation, study and apply for the starting positions as local public administrators. 
+ 
+47. The local district position as local Major is granted to those reaching the highest scores among the other candidates. 
+
+48. The best Majors and Governors are also progressively promoted towards a wider geographical area until one reaches the position as President (Head of the State) of the city/territory. 
+
+49. The administrators that are not selected to promotion end their public career and should resume the administration of private enterprises.
+
+50. In order to guarantee that the best Public Officer is selected, Artificial Inteligence would be used to develop and standarise a scoring system that compensate evenly the several variables involved in governing different geographical, sociological and economical areas. 
 
 RELEASING THE BUDGET 
-Smartcontract locked resources. 
-
+51. Smartcontract locked resources. 
 
 
 LEGISLATIVE BRANCH
-Legislators must be professors/researchers in each specific area to be regulated, particularly experts in quantitatible research and conducting sample implementations before proposing laws that must be peer reviewed. 
+Lower camera: Scientific specialists:
+52. Legislators must be professors/researchers in each specific area to be regulated, particularly experts in quantitatible research and conducting sample implementations before proposing laws that must be peer reviewed. 
 
-In the same manner of the executive role, legislative officers are not popularly elected but selected and promoted within a generational scoring system of performance. 
+53. In the same manner of the executive role, legislative officers are not popularly elected but selected and promoted within a generational scoring system of performance. 
 
-Idealy Executive and legislative profesionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in the senate. 
+54. Idealy Executive and legislative profesionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in the senate. 
 
-An elite group of profesionals in statistics will re-study the interrelated variables in order to forecast the implications to the general public of a new law considering multidisciplinary crossed effects of the other areas. 
+Upper camera: Professionals on statistics. 
+55. An elite group of profesionals in statistics will re-study the interrelated/corelated variables in order to forecast the implications to the general public of a new law considering multidisciplinary crossed effects of the other areas. 
 
