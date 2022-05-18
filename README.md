@@ -1,6 +1,6 @@
 # THE-BLOCKCHAIN-REPUBLIC
-
-
+-
+-
 INTRODUCTION: "ESCAPE ROUTES"
 
 1. Block and Chain are words loaded with slavery connotations as in the 'striatted' agricultural/mining landfield/squarified urban aglomeration/barcoding/jailing.
@@ -72,11 +72,11 @@ Things that work on scientific basis, like vaning the use of lead in the gasolin
 
 44. Geographical areas would be ecologically alighned to river basins. Tributary river systems serve to track responsibilities and compensations to the city states inmediate under them regarding the plastic and chemical polution in the water. 
 
-For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pullution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
+For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
 
 The amount to be paid will represent the exact amount that it would cost to heal the damages.
-
-
+-
+-
 CORPORATIVE STRUCTURES: "ANTI MONOPOLISTIC LAWS"
 
 26. In the same way that crypto currencies deal with the accumulation of power in validators by progressively reducing the rewards, corporation would be planned as unprofitable to grow further than a certain point. 
