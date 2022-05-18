@@ -71,7 +71,7 @@ Things that work on scientific basis, like vaning the use of lead in the gasolin
 
 44. Geographical areas would be ecologically alighned to river basins. Tributary river systems serve to track responsibilities and compensations to the city states inmediate under them regarding the plastic and chemical polution in the water. 
 
-For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
+45. For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
 The amount to be paid will represent the exact amount that it would cost to heal the damages.
 -
 .
