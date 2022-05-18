@@ -15,7 +15,7 @@ absolutely everything including volume of air inhaled, daily composition of the 
 5. The idea is to signal escape routes to the ongoing/natural corporative/monopolistic tendencies. 
 
 
-FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM".
+FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
 
 6. We killed all the other hominids and spread across the world due to be constantly forced to exile by militar sedentarists. 
 
@@ -43,7 +43,7 @@ SECOND PART: "NO POPULAR ELECTION"
 16. It is our responsibility as ideologists to study every country/farm and select/handpick from them the best proven policies (one by one) to construct a republic with the best features of existing republics and added features currently yet to be implemented. 
 
 
-THIRD PART: "A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRACY".
+THIRD PART: "A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRACY"
 
 17. The fudamental principle of the republic is the elimination of popular election and the impossibility of appointing others to public roles.
 
@@ -60,7 +60,8 @@ THIRD PART: "A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRA
 23. 19 years represents a cycle of the sun and moon approximate reset and an approximated middle point to adulthood in several countries.  
 
 
-FOURTH PART: "ENVIRONMENTALLY ORIENTED SUSTAINABLE GOVERNANCE".
+FOURTH PART: "ENVIRONMENTALLY ORIENTED SUSTAINABLE GOVERNANCE"
+
 24. The republic aim to extend the concept of 'kind' into a wider perspective, challenging traditional restricted models where only other selected humans are considered as such in relation to their proximity in terms of biological evolutionary kingdom, country of origin, race, gender, age, religious, political and sport affiliations.
 
 25. The hyerarchical order of rights starts with the clean water and air being the top priority of any policy, followed by natural parks, native animals, plants, indigenous peoples and farmers.  
@@ -76,7 +77,7 @@ For example: Uganda must pay South Sudan, for the polution discharged in the Nil
 The amount to be paid will represent the exact amount that it would cost to heal the damages.
 
 
-CORPORATIVE STRUCTURES PART 1: ANTI MONOPOLISTIC LAWS:
+CORPORATIVE STRUCTURES: "ANTI MONOPOLISTIC LAWS"
 
 26. In the same way that crypto currencies deal with the accumulation of power in validators by progressively reducing the rewards, corporation would be planned as unprofitable to grow further than a certain point. 
 
@@ -119,7 +120,7 @@ SERVICES TAX
 40. Greater amount consumption would be taxed at a greater rate.   
 
 
-PROPERTY TAX: "Base of the concept of life state". 
+PROPERTY TAX: "Base of the concept of life state" 
 
 40. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen and dinning room. 
 
