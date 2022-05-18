@@ -1,6 +1,6 @@
 # THE-BLOCKCHAIN-REPUBLIC
-.
-.
+
+
 INTRODUCTION: "ESCAPE ROUTES"
 
 1. Block and Chain are words loaded with slavery connotations as in the 'striatted' agricultural/mining landfield/squarified urban aglomeration/barcoding/jailing.
@@ -13,8 +13,8 @@ absolutely everything including volume of air inhaled, daily composition of the 
 4. This is a template for a dystopian control system based on algorithms.  
 
 5. The idea is to signal escape routes to the ongoing/natural corporative/monopolistic tendencies. 
-.
-.
+
+
 FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM".
 
 6. We killed all the other hominids and spread across the world due to be constantly forced to exile by militar sedentarists. 
@@ -26,8 +26,8 @@ FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM".
 9. Every "capital/provinces" system implies inneficient boureaucracy and corruption: basically a colonial model.
 
 10. The present proposed republic is a trans-continental format of interconnected metropolitan areas organized by commuting patterns.  
-.
-.
+
+
 SECOND PART: "NO POPULAR ELECTION"
 
 11. The project of an enciclopedic republic, guided by the illustration, was naturally controlled from the beginning by the sponsoring 'affluents' and corporations (nowdays). 
@@ -41,8 +41,8 @@ SECOND PART: "NO POPULAR ELECTION"
 15. The ideal template of a goverment management would imply the final goal of zero public officers: Automation. 
 
 16. It is our responsibility as ideologists to study every country/farm and select/handpick from them the best proven policies (one by one) to construct a republic with the best features of existing republics and added features currently yet to be implemented. 
-.
-.
+
+
 THIRD PART: "A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRACY".
 
 17. The fudamental principle of the republic is the elimination of popular election and the impossibility of appointing others to public roles.
@@ -58,14 +58,14 @@ THIRD PART: "A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRA
 22. For practical purposes one generation is divided in four periods (The number of years a position would be held before being promoted or finalizing the public service).
  
 23. 19 years represents a cycle of the sun and moon approximate reset and an approximated middle point to adulthood in several countries.  
-.
-.
+
+
 FOURTH PART: "ENVIRONMENTALLY ORIENTED SUSTAINABLE GOVERNANCE".
 24. The republic aim to extend the concept of 'kind' into a wider perspective, challenging traditional restricted models where only other selected humans are considered as such in relation to their proximity in terms of biological evolutionary kingdom, country of origin, race, gender, age, religious, political and sport affiliations.
 
 25. The hyerarchical order of rights starts with the clean water and air being the top priority of any policy, followed by natural parks, native animals, plants, indigenous peoples and farmers.  
-.
-.
+
+
 THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES
 Things that work on scientific basis, like vaning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
 
@@ -74,8 +74,8 @@ Things that work on scientific basis, like vaning the use of lead in the gasolin
 For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pullution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
 
 The amount to be paid will represent the exact amount that it would cost to heal the damages.
-.
-.
+
+
 CORPORATIVE STRUCTURES PART 1: ANTI MONOPOLISTIC LAWS:
 
 26. In the same way that crypto currencies deal with the accumulation of power in validators by progressively reducing the rewards, corporation would be planned as unprofitable to grow further than a certain point. 
@@ -89,8 +89,8 @@ CORPORATIVE STRUCTURES PART 1: ANTI MONOPOLISTIC LAWS:
 30. Your royalties last during all your lifetime and can't be alienated.
 
 31. Once you have died, the royalties and patent rights, goes to the entire human population, configuring a minimum salary background for everyone in the republic. 
-.
-.
+
+
 TAXES
 
 32. No income tax. 
@@ -110,15 +110,15 @@ TAXES
 39. Fines: traffic fines, like speeding and other traffic violations and court fines, must be calculated based on the salary of the violator. 
 
 40. Custom tax under the Harmmonized tariff system. 
-.
-.
+
+
 SERVICES TAX
 
 39. There's a progressive taxation system/subsidy: minimul vital amount of water essential as drinking water 3,7 liters plus 7,3 liters needed to flush the toilet would be free per person in every household. 
 
 40. Greater amount consumption would be taxed at a greater rate.   
-.
-.
+
+
 PROPERTY TAX: "Base of the concept of life state". 
 
 40. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen and dinning room. 
@@ -148,13 +148,12 @@ the size of this residencial property exempt from taxes is determined by the "th
  Accounting must be public on a daily basis and its expenses should be included in the operational expenses of the company. 
 
 In the republic the companies follow a tripartite ownership model: at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto share holder). 
-.
-.
+
 
 COUNTER TAXATION:
 45. Financial payments will be granted for processing neighboors organic leftovers, plastics, glass, metals, electronics, etc. 
-.
-.
+
+
 EXECUTIVE BRANCH
 46. The fundamental training for all professional private administrators is essential to guarantee that, only those with the experience (19 years) AND the vocation, study and apply for the starting positions as local public administrators. 
  
@@ -168,8 +167,8 @@ EXECUTIVE BRANCH
 
 RELEASING THE BUDGET 
 51. Smartcontract locked resources. 
-.
-.
+
+
 LEGISLATIVE BRANCH
 Lower camera: Scientific specialists:
 52. Legislators must be commitees (3, 5 or 7 members?) of professors/researchers in each specific area to be regulated, particularly experts in quantitatible research and conducting sample implementations before proposing laws that must be peer reviewed. 
@@ -177,8 +176,8 @@ Lower camera: Scientific specialists:
 53. In the same manner of the executive role, legislative officers are not popularly elected but promoted within a generational scoring system of performance. 
 
 54. Executive and legislative profesionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in a congress of specialist, etc. 
-.
-.
+
+
 Upper camera: Professionals on statistics. 
 
 55. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
