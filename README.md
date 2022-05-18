@@ -72,7 +72,6 @@ Things that work on scientific basis, like vaning the use of lead in the gasolin
 44. Geographical areas would be ecologically alighned to river basins. Tributary river systems serve to track responsibilities and compensations to the city states inmediate under them regarding the plastic and chemical polution in the water. 
 
 For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
-
 The amount to be paid will represent the exact amount that it would cost to heal the damages.
 -
 .
@@ -152,11 +151,11 @@ the size of this residencial property exempt from taxes is determined by the "th
 42. Corporations can't own houses neither they can own industrial or agricultural land, they can only rent it, being the most profitable strategy to rent it directly from several of its employees or investors, as the first property owned by them outside of their residencial houses. 
 
 
- The intention behind these policies is to focus the attention of investors in financing start ups as a road towards wealth. 
+43. The intention behind these policies is to focus the attention of investors in financing start ups as a road towards wealth. 
  
- Accounting must be public on a daily basis and its expenses should be included in the operational expenses of the company. 
+44. Accounting must be public on a daily basis and its expenses should be included in the operational expenses of the company. 
 
-In the republic the companies follow a tripartite ownership model: at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto share holder). 
+45. In the republic the companies follow a tripartite ownership model: at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto share holder). 
 -
 .
 ## COUNTER TAXATION:
@@ -181,7 +180,7 @@ In the republic the companies follow a tripartite ownership model: at the same t
 -
 .
 ## LEGISLATIVE BRANCH
-Lower camera: Scientific specialists:
+### LOWER CAMERA: SCIENTIFIC SPECIALIST:
 52. Legislators must be commitees (3, 5 or 7 members?) of professors/researchers in each specific area to be regulated, particularly experts in quantitatible research and conducting sample implementations before proposing laws that must be peer reviewed. 
 
 53. In the same manner of the executive role, legislative officers are not popularly elected but promoted within a generational scoring system of performance. 
@@ -189,7 +188,7 @@ Lower camera: Scientific specialists:
 54. Executive and legislative profesionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in a congress of specialist, etc. 
 -
 .
-## Upper camera: Professionals on statistics. 
+### UPPER CAMERA: COORELATION/STATISTICS COMMITEE. 
 
 55. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
 
