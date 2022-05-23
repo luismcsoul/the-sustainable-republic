@@ -5,7 +5,7 @@
 1. Block and Chain are words loaded with slavery connotations as in the 'striatted' agricultural/mining landfield/squarified urban aglomeration/barcoding/jailing.
 
 2. Currently the term refers to ledgers for transactions within a mass datification process: 
-absolutely everything including volume of air inhaled, daily composition of the human excrement and all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
+absolutely everything including volume of air inhaled and all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
 
 3. A sort of parent ledger would be needed to register all the data since confirmed pregnacy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
 
@@ -67,7 +67,7 @@ absolutely everything including volume of air inhaled, daily composition of the 
 -
 .
 ## THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES
-Things that work on scientific basis, like vaning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
+Things that work on scientific basis, like banning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
 
 44. Geographical areas would be ecologically alighned to river basins. Tributary river systems serve to track responsibilities and compensations to the city states inmediate under them regarding the plastic and chemical polution in the water. 
 
@@ -176,7 +176,7 @@ the size of this residencial property exempt from taxes is determined by the "th
 -
 .
 ## RELEASING THE BUDGET 
-51.Publicly disclosed smart contracts based on locked resources creditable only to publicly disclosed purchases in open bids. 
+51. Publicly disclosed smart contracts based on locked resources creditable only to purchases in open bids. 
 -
 .
 ## LEGISLATIVE BRANCH
