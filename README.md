@@ -194,3 +194,4 @@ the size of this residencial property exempt from taxes is determined by the "th
 
 56. Such positions are optained by a public career in the field, via progressive promotion. 
 
+57. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
