@@ -79,7 +79,7 @@ The amount to be paid will represent the exact amount that it would cost to heal
 
 26. In the same way that crypto currencies deal with the accumulation of power in validators by progressively reducing the rewards, corporation would be planned as unprofitable to grow further than a certain point. 
 
-27.Companies can't auction more than 49% of their equity as funding strategy and therefore 51% should always remain creditable to the employees proportional to their contributions.
+27. Companies can't auction more than 49% of their equity as funding strategy and therefore 51% should always remain creditable to the employees proportional to their contributions.
 
 28. Once you leave the company your equity will be transferred to the public shares and the correponding internal shares will be burned in order to rebalance the equity among the updated employees. 
 
