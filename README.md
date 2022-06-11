@@ -2,16 +2,16 @@
 
 ## INTRODUCTION: "ESCAPE ROUTES"
 
-1. Block and Chain are words loaded with slavery connotations as in the 'striatted' agricultural/mining landfield/squarified urban aglomeration/barcoding/jailing.
+1. Block and Chain are words loaded with slavery connotations: agricultural/mining landfield/squarified urban aglomeration/barcoding/jailing (see the essay 'the smooth and the striated').
 
 2. Currently the term refers to ledgers for transactions within a mass datification process: 
-absolutely everything including volume of air inhaled and all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
+absolutely all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
 
-3. A sort of parent ledger would be needed to register all the data since confirmed pregnacy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
+3. A parent ledger is being deployed  by mega tech corporations in order to register all the data since confirmed pregnacy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
 
 4. This is a template for a dystopian control system based on algorithms.  
 
-5. The idea is to signal escape routes to the ongoing/natural corporative/monopolistic tendencies. 
+5. The idea is to signal escape routes to ongoing/natural corporative/monopolistic tendencies: an algorithm against the algorithm. 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
@@ -24,7 +24,7 @@ absolutely everything including volume of air inhaled and all sort of medical, i
 
 9. Every "capital/provinces" system implies inneficient boureaucracy and corruption: basically a colonial model.
 
-10. The present proposed republic is a trans-continental format of interconnected metropolitan areas organized by commuting patterns.  
+10. The present proposed republic is a long term sustainable template for trans-continental and interconnected metropolitan areas organized by commuting patterns and river basins.  
 -
 .
 ## SECOND PART: "NO POPULAR ELECTION"
@@ -37,7 +37,7 @@ absolutely everything including volume of air inhaled and all sort of medical, i
 
 14. Models for evaluating standarized good governance were never thought until now when artificial inteligence is exceling humans in every single imaginable category. 
 
-15. The ideal template of a goverment management would imply the final goal of zero public officers: Automation. 
+15. The ideal template of governmental management would imply the final goal of zero public officers: Automation. 
 
 16. It is our responsibility as ideologists to study every country/farm and select/handpick from them the best proven policies (one by one) to construct a republic with the best features of existing republics and added features currently yet to be implemented. 
 -
@@ -59,29 +59,44 @@ absolutely everything including volume of air inhaled and all sort of medical, i
 23. 19 years represents a cycle of the sun and moon approximate reset and an approximated middle point to adulthood in several countries.  
 -
 .
-## FOURTH PART: "ENVIRONMENTALLY ORIENTED SUSTAINABLE GOVERNANCE"
+## FOURTH PART: "ENVIRONMENTALLY ORIENTED SUSTAINABLE GOVERNANCE" 
+### (THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES)
+Things that work on scientific basis, like banning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
 
 24. The republic aim to extend the concept of 'kind' into a wider perspective, challenging traditional restricted models where only other selected humans are considered as such in relation to their proximity in terms of biological evolutionary kingdom, country of origin, race, gender, age, religious, political and sport affiliations.
 
-25. The hyerarchical order of rights starts with the clean water and air being the top priority of any policy, followed by natural parks, native animals, plants, indigenous peoples and farmers.  
--
-.
-## THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES
-Things that work on scientific basis, like banning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
+25. The hyerarchical order of rights starts with the clean water and air being the top priority of any policy, followed by natural parks, native animals, plants and indigenous peoples.  
 
-44. Geographical areas would be ecologically alighned to river basins. Tributary river systems serve to track responsibilities and compensations to the city states inmediate under them regarding the plastic and chemical polution in the water. 
+26. Geographical areas would be ecologically alighned to river basins. Tributary river systems serve to track responsibilities and compensations to the city states inmediate under them regarding the plastic and chemical polution in the water. 
 
-45. For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
+27. For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
 The amount to be paid will represent the exact amount that it would cost to heal the damages.
+
+28. Notice how local goverments should therefore seek to transfer this accountability to corporations and urban water discharges to the river systems and other environmental damages like gas emissions, noise pollution, etc. 
+
+29. By doing so, corporations will effectively and unavoidably, transfer these costs to the final customers, as price increases: facilitating the reconsideration of their daily decisions based on real environmentally accountability. 
 -
 .
-## CORPORATIVE STRUCTURES: "ANTI MONOPOLISTIC LAWS"
+## CORPORATIVE STRUCTURES: "TRIPARTITE OWNERSHIP MODEL"
+45. All companies are at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% non voting shares are owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto share holder). 
 
-26. In the same way that crypto currencies deal with the accumulation of power in validators by progressively reducing the rewards, corporation would be planned as unprofitable to grow further than a certain point. 
+46. The intention behind these policies is to focus the attention of investors in financing start ups as a road towards wealth. 
+ 
+47. Accounting will be public in real team per transaction, and financial reports will be publicly shared on a daily basis. 
 
-27. Companies can't auction more than 49% of their equity as funding strategy and therefore 51% should always remain creditable to the employees proportional to their contributions.
+48. Companies can't auction more than 48% of their equity as funding strategy and therefore 51% should always remain creditable to the employees proportional to their contributions.
 
-28. Once you leave the company your equity will be transferred to the public shares and the correponding internal shares will be burned in order to rebalance the equity among the updated employees. 
+49. Once you leave the company your corresponding equity will be purchased from the public shares and the internal shares will be burned in order to rebalance the equity among the updated employees. 
+
+50. The total liabilities of a company can't exceed ten times the net income AND/OR ten times the tangigle shareholder's equity (Shareholders equity minus the total intangible assets).
+-
+.
+## COPYRIGHTS, INDUSTRIAL AND DESIGN PATENTS ARE LINKED TO THE CREATOR VIA BLOCKCHAIN
+Nobody would be able to transfer or sell these rights. 
+
+Corporations can't own patents, only individuals can do and they last a lifetime. after passing, the patent charges will be still being collected and distributed to the remaining total population. 
+
+Creators are paid in royalties, revenue commission and other residuals proportionate to their contributions. 
 
 29. Any person participating in the production of any product or service gets paid in equity and royalties proportionally according to their contributions. 
 
@@ -90,20 +105,11 @@ The amount to be paid will represent the exact amount that it would cost to heal
 31. Once you have died, the royalties and patent rights, goes to the entire human population, configuring a minimum salary background for everyone in the republic. 
 -
 .
-## COPYRIGHTS, INDUSTRIAL AND DESIGN PATENTS ARE LINKED TO THE CREATOR VIA BLOCKCHAIN
-Nobody would be able to transfer or sell this rights. 
-
-Corporations can't own patents, only individuals can do and they last a lifetime. after passing, the patent charges will be still being collected and distributed to the remaining total population. 
-
-Creators are paid in royalties, revenue commission and other residuals proportionate to their contributions. 
-
--
-.
 ## TAXES
 
 32. No income tax. 
 
-33. All revenue are collected via spending (Value Added Tax):
+33. All revenue are collected via spending (Value Added Tax) tiered from (1) raw agricultural products of local extraction without packaging (lowest tax/related to the transpostation and leftover treatment), to (2) all consumer discretionary purchases (cars, household appliances, jewlery, watches, yachts).
 
 34. Taxation will be executed according to the enviromental and health impacts of the supply chain/operation of the companies/transactions. 
 
@@ -113,7 +119,7 @@ Creators are paid in royalties, revenue commission and other residuals proportio
 
 37. This tax would be then be transferred to the customer via a taxation on the "livecycle assessment" (an improved/more detailed alternative to the 'food miles'). 
 
-38. Recreational drugs like smartphones, alcohol, cigarretes, sugar and cannabis are legal and taxed in a way that is sustainable and proportionate to the health system/managing the implications of its usage. 
+38. Recreational drugs like smartphones ('social networks/gaming platforms), alcohol, cigarretes, sugar and cannabis are legal and taxed in a way that is sustainable and proportionate to the health system/managing the implications of its usage. 
 
 39. Fines: traffic fines, like speeding and other traffic violations and court fines, must be calculated based on the salary of the violator. 
 
@@ -124,43 +130,37 @@ Creators are paid in royalties, revenue commission and other residuals proportio
 
 39. There's a progressive taxation system/subsidy: minimul vital amount of water essential as drinking water 3,7 liters plus 7,3 liters needed to flush the toilet would be free per person in every household. 
 
-40. Greater amount consumption would be taxed at a greater rate.   
+40. Greater amount consumption would be taxed at a greater rate (with the intention to discourage waste, reduce overconsumption and on contrary incentivize self moderation).   
 -
 .
 ## PROPERTY TAX: "Base of the concept of life state" 
 
 40. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen and dinning room. 
 
-Entry level housing, usually apartments used by young adults single college students or widowed pensioners.
-
-Couple housing is an intermediate level of housing where rights are legally splitted bewteen the dwellers and constitute de facto financial partnership during the rental time. 
-
-Family housing is the ultimate, larger protected ownership strategy including a backward, garage and garden.
-
 The system is planned as a live/cycle of natural upsizing and downsizing proportions. 
 
-Special considerations have been taken in order to grant medical attention to the last months of pregnancy and elders. 
+a. Entry level housing, usually apartments used by young adults single college students or widowed pensioners.
 
+b. Couple housing is an intermediate level of housing where rights are legally splitted bewteen the dwellers and constitute de facto financial partnership during the rental time. 
 
-the size of this residencial property exempt from taxes is determined by the "the median size of a lot for new construction". 
+c. Family housing is the ultimate, larger protected ownership strategy including a backward, garage and garden.
+
+Special considerations have been taken in order to grant medical attention to pregnant women and elders. 
+
+The size of this residencial property exempt from taxes is determined by the "the median size of a lot for new construction". 
 
 41. The taxes increase by 10% progressively with the number of properties owned, up to 9 properties, where the taxation reached 90%, making the investment practicaly inprofitable. 
 
-43. Every residential rental is considered de facto rent-to-own in benefit of the person renting. 
+42. Every residential rental is considered de facto a rent-to-own contract in benefit of the person renting. 
+
+43. A similar tiered taxation system is applicable to agricultural and industrial land, considering the total percentage of land available within the geographic territory within the river basin. 
 
 42. Corporations can't own houses neither they can own industrial or agricultural land, they can only rent it, being the most profitable strategy to rent it directly from several of its employees or investors, as the first property owned by them outside of their residencial houses. 
-
-
-43. The intention behind these policies is to focus the attention of investors in financing start ups as a road towards wealth. 
- 
-44. Accounting must be public on a daily basis and its expenses should be included in the operational expenses of the company. 
-
-45. In the republic the companies follow a tripartite ownership model: at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto share holder). 
 -
 .
 ## COUNTER TAXATION:
 
-45. Financial payments will be granted for processing neighboors organic leftovers, plastics, glass, metals, electronics, etc. 
+45. Financial payments will be granted for processing neighboors black waters and organic leftovers, plastics, glass, metals, electronics, etc. 
 -
 .
 ## EXECUTIVE BRANCH
