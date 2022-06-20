@@ -197,7 +197,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 77. The administrators that are not selected to promotion end their public career and should resume the administration of private enterprises.
 
-78. In order to guarantee that the best Public Officer is selected, Artificial Inteligence would be used to develop and standarise a scoring system that compensate evenly the several variables involved in governing different geographical, sociological and economical areas. 
+78. In order to guarantee that the best Public Officer is selected, Artificial Inteligence would be used by the people writting the questions for the tests/position promotions in order to develop and standarise a scoring system that compensate evenly the several variables involved in governing different geographical, sociological and economical areas. 
 -
 .
 ## RELEASING THE BUDGET 
@@ -217,15 +217,32 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 84. Executive and legislative profesionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in a congress of specialist, etc. 
 
 85. After graduation, professionals aspiring to initiate a career path as public legislators must study the 'Legislative affairs' courses and enter a generational competition similar to the one explained for the executive branch.  
+
+86. The legislative bodies would be responsible to design the plans of goverment to be executed by the executive branch during a cycle (4 years and 9 months) and other longer term goals and structural changes in the legislation. 
+
+87. Any citizen, following the protocols of redation for a project/law, should be able to submit to its local legislator any new improvement for the existing laws and projects in order to seek optimization in the system: reduction of bureaucracy, times of service, automation, etc.
+
+88. Signatures from a statistically significant amount of citizens would be needed in order to guarantee that an official public reply will be announced to each legislative proposal submitted.
+
+89. The cycle for introduction of new legislation: public test day, plus one third of a cycle (one year and seven months) assuming the position, plus one third of a cycle (three years and two months) end date to proposal recollection, the last third in office would be to evaluate and settle new approved legislation that starts being effective on the upcoming public test day. 
+
+90. In order to grant the general public with necessary awareness on both the test day, the recollection of publicly submitted proposals and the settlement of new legislation, each legislative body, per faculty/area career path, should be scheduled in a different week from the others.  
 -
 .
 ### UPPER CAMERA: COORELATION/STATISTICS COMMITEE. 
 
-86. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
+91. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
 
-87. Such positions are optained by a public career in the field, via progressive promotion. 
+92. Such positions are optained by a public career in the field, via progressive promotion. 
 -
 .
-### ETHICAL CONSIDERATIONS.
+## JUDICIAL BRANCH:
+93. Three different subbranches where professional lawyers follow specific career paths: judges, prosecutors and public defendants. 
 
-88. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
+94. In the very same way that happened in both the executive and legislative branches, the judicial branch is organized by internal promotions and lawyers can't switch subbranches neither. 
+
+95. In case a prosecutor is involved in a conflict, and it would be needed to be questioned itself, an "ad hoc" (for this purpose only) prosecutor would be assigned to assume the position until the case is dismissed or sentenced.  
+
+## ETHICAL CONSIDERATIONS.
+
+96. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
