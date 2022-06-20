@@ -202,6 +202,8 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 .
 ## RELEASING THE BUDGET 
 51. Publicly disclosed smart contracts based on locked resources creditable only to purchases in open bids. 
+
+52. Corporations bidding to get assigned public contracts are legally responsible for public 
 -
 .
 ## LEGISLATIVE BRANCH
@@ -211,12 +213,17 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 53. In the same manner of the executive role, legislative officers are not popularly elected but promoted within a generational scoring system of performance. 
 
 54. Executive and legislative profesionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in a congress of specialist, etc. 
+
+55. After graduation, professionals aspiring to initiate a career path as public legislators must study the 'Legislative affairs' courses and enter a generational competition similar to the one explained for the executive branch.  
 -
 .
 ### UPPER CAMERA: COORELATION/STATISTICS COMMITEE. 
 
-55. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
+56. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
 
-56. Such positions are optained by a public career in the field, via progressive promotion. 
+57. Such positions are optained by a public career in the field, via progressive promotion. 
+-
+.
+### ETHICAL CONSIDERATIONS.
 
-57. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
+58. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
