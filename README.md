@@ -203,9 +203,9 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 ## RELEASING THE BUDGET 
 79. Publicly disclosed smart contracts based on locked resources creditable only to purchases in open bids. 
 
-80. Corporations bidding to get assigned public contracts are legally responsible for fraud, corruption, delivering faulty products of services and their responsibility undergo banning the company and its executives from contracting with the government again.
+80. Corporations bidding to get assigned public contracts are legally responsible for fraud, corruption, delivering faulty products of services and their responsibility undergo disolution of the company and banning its executives from contracting with the government again.
 
-81. Corrupt politicians are punished by the expropiation of all the assets under their names and assigned home detention in the middle of the poorest neighboorhood of the river basin during one generation 19 years, not eligible for bail or time reduction. 
+81. Both corrupt politicians and executives of the faulty contracting firms, are punished by the expropiation of all the assets under their names and assigned home detention in the middle of the poorest neighboorhood of the river basin during one generation 19 years, not eligible for bail or time reduction. 
 -
 .
 ## LEGISLATIVE BRANCH
