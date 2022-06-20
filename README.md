@@ -242,7 +242,8 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 94. In the very same way that happened in both the executive and legislative branches, the judicial branch is organized by internal promotions and lawyers can't switch subbranches neither. 
 
 95. In case a prosecutor is involved in a conflict, and it would be needed to be questioned itself, an "ad hoc" (for this purpose only) prosecutor would be assigned to assume the position until the case is dismissed or sentenced.  
-
+-
+.
 ## ETHICAL CONSIDERATIONS.
 
 96. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
