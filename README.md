@@ -233,19 +233,19 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 .
 ### UPPER CAMERA: COORELATION/STATISTICS COMMITEE. 
 
-91. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
+92. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
 
-92. Such positions are optained by a public career in the field, via progressive promotion. 
+93. Such positions are optained by a public career in the field, via progressive promotion. 
 -
 .
 ## JUDICIAL BRANCH:
-93. Three different subbranches where professional lawyers follow specific career paths: judges, prosecutors and public defendants. 
+94. Three different subbranches where professional lawyers follow specific career paths: judges, prosecutors and public defendants. 
 
-94. In the very same way that happened in both the executive and legislative branches, the judicial branch is organized by internal promotions and lawyers can't switch subbranches neither. 
+95. In the very same way that happened in both the executive and legislative branches, the judicial branch is organized by internal promotions and lawyers can't switch subbranches neither. 
 
-95. In case a prosecutor is involved in a conflict, and it would be needed to be questioned itself, an "ad hoc" (for this purpose only) prosecutor would be assigned to assume the position until the case is dismissed or sentenced.  
+96. In case a prosecutor is involved in a conflict, and it would be needed to be questioned itself, an "ad hoc" (for this purpose only) prosecutor would be assigned to assume the position until the case is dismissed or sentenced.  
 -
 .
 ## ETHICAL CONSIDERATIONS.
 
-96. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
+97. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
