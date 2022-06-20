@@ -224,9 +224,11 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 88. Signatures from a statistically significant amount of citizens would be needed in order to guarantee that an official public reply will be announced to each legislative proposal submitted.
 
-89. The cycle for introduction of new legislation: public test day, plus one third of a cycle (one year and seven months) assuming the position, plus one third of a cycle (three years and two months) end date to proposal recollection, the last third in office would be to evaluate and settle new approved legislation that starts being effective on the upcoming public test day. 
+89. The cycle for introduction of new legislation: public test day determines the start of implementation of the previous updates, while the first third in office would be to evaluate the impact, the second third to settle the new legislation and recolect proposals from the citizens, the third part of the cycle would be to settle changes. 
 
-90. In order to grant the general public with necessary awareness on both the test day, the recollection of publicly submitted proposals and the settlement of new legislation, each legislative body, per faculty/area career path, should be scheduled in a different week from the others.  
+90. In order to grant the general public with necessary awareness on both the test day and the settlement of new legislation, each legislative body, per faculty/area career path, should schedule this day in a different month from the others.  
+
+91. The legislative test day should be one working day before the executive test day. 
 -
 .
 ### UPPER CAMERA: COORELATION/STATISTICS COMMITEE. 
