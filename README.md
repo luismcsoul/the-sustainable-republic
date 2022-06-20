@@ -82,68 +82,68 @@ The amount to be paid will represent the exact amount that it would cost to heal
 -
 .
 ## CORPORATIVE STRUCTURES: "TRIPARTITE OWNERSHIP MODEL"
-45. All companies are at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% non voting shares are owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto share holder). 
+32. All companies are at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% non voting shares are owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto share holder). 
 
-46. The intention behind these policies is to focus the attention of investors in financing start ups as a road towards wealth. 
+33. The intention behind these policies is to focus the attention of investors in financing start ups as a road towards wealth. 
  
-47. Accounting will be public in real time per transaction, and financial reports will be publicly shared on a daily basis. 
+34. Accounting will be public in real time per transaction, and financial reports will be publicly shared on a daily basis. 
 
-48. Once an employee leaves the company his corresponding equity will be purchased from the public shares and the internal shares will be burned in order to rebalance the equity among the updated employees. 
+35. Once an employee leaves the company his corresponding equity will be purchased from the public shares and the internal shares will be burned in order to rebalance the equity among the updated employees. 
 
-49. The total liabilities of a company can't exceed ten times the net income AND/OR ten times the tangigle shareholder's equity (Shareholders equity minus the total intangible assets).
+36. The total liabilities of a company can't exceed ten times the net income AND/OR ten times the tangigle shareholder's equity (Shareholders equity minus the total intangible assets).
 -
 .
 ## COPYRIGHTS, INDUSTRIAL AND DESIGN PATENTS ARE LINKED TO THE CREATOR VIA BLOCKCHAIN
-Nobody would be able to transfer or sell these rights. 
+37. Nobody would be able to transfer or sell these rights. 
 
-Corporations can't own patents, only individuals can do and they last a lifetime. After passing, the patent charges will be stop being collected and therefore distributed to the remaining total population. 
+38. Corporations can't own patents, only individuals can do and they last a lifetime. After passing, the patent charges will be stop being collected and therefore distributed to the remaining total population. 
 
-Creators are paid in royalties, revenue commission and other residuals proportionate to their contributions. 
+39. Creators are paid in royalties, revenue commission and other residuals proportionate to their contributions. 
 
-29. Any person participating in the production of any product or service gets paid in equity and royalties proportionally according to their contributions. 
+40. Any person participating in the production of any product or service gets paid in equity and royalties proportionally according to their contributions. 
 
-30. Your royalties last during all your lifetime and can't be alienated.
+41. Your royalties last during all your lifetime and can't be alienated.
 
-31. Once you have died, the royalties and patent rights, goes to the entire human population, configuring a minimum salary background for everyone in the republic. 
+42. Once you have died, the royalties and patent rights, goes to the entire human population, configuring a minimum salary background for everyone in the republic. 
 -
 .
 ## TAXES
 
-32. No income tax. 
+43. No income tax. 
 
-33. All revenue are collected via spending (Value Added Tax) tiered from (1) raw agricultural products of local extraction without packaging (lowest tax/related to the transpostation and leftover treatment), to (2) all consumer discretionary purchases (cars, household appliances, jewlery, watches, yachts).
+44. All revenue are collected via spending (Value Added Tax) tiered from (1) raw agricultural products of local extraction without packaging (lowest tax/related to the transpostation and leftover treatment), to (2) all consumer discretionary purchases (cars, household appliances, jewlery, watches, yachts).
 
-34. Taxation will be executed according to the enviromental and health impacts of the supply chain/operation of the companies/transactions services/products. 
+45. Taxation will be executed according to the enviromental and health impacts of the supply chain/operation of the companies/transactions services/products. 
 
-35. For example: a company selling packaged food would have to pay for both the sugar (or sweetened) content (and all other ingredientes linked to health diseases), the plastic used in the wrapping and the impact of the transportation from raw materials to consumer. 
+46. For example: a company selling packaged food would have to pay for both the sugar (or sweetened) content (and all other ingredientes linked to health diseases), the plastic used in the wrapping and the impact of the transportation from raw materials to consumer. 
 
-36. A transportation company and factories have to pay for the gas emitions, of its operations, etc. 
+47. A transportation company and factories have to pay for the gas emitions, of its operations, etc. 
 
-37. This tax would be then be transferred to the customer via a taxation on the "livecycle assessment" (an improved/more detailed alternative to the 'food miles'). 
+48. This tax would be then be transferred to the customer via a taxation on the "livecycle assessment" (an improved/more detailed alternative to the 'food miles'). 
 
-38. Recreational drugs like smartphones ('social networks/gaming platforms), alcohol, cigarretes, sugar and cannabis are legal and taxed in a way that is sustainable and proportionate to the health system/managing the implications of its usage. 
+49. Recreational drugs like smartphones ('social networks/gaming platforms), alcohol, cigarretes, sugar and cannabis are legal and taxed in a way that is sustainable and proportionate to the health system/managing the implications of its usage. 
 
-39. Fines: traffic fines, like speeding and other traffic violations and court fines, must be calculated based on the salary of the violator. 
+50. Fines: traffic fines, like speeding and other traffic violations and court fines, must be calculated based on the salary of the violator. 
 
-40. Custom tax under the Harmmonized tariff system. 
+51. Custom tax under the Harmmonized tariff system. 
 
-41. No inheritance tax.
+52. No inheritance tax.
 -
 .
 ## SERVICES TAX
 
-39. There's a progressive taxation system/subsidy: minimul vital amount of water essential as drinking water 3,7 liters plus 7,3 liters needed to flush the toilet would be free per person in every household. 
+53. There's a progressive taxation system/subsidy: minimul vital amount of water essential as drinking water 3,7 liters plus 7,3 liters needed to flush the toilet would be free per person in every household. 
 
-40. A second level of water needed for cooking and human and household maintainance will be charge at cost of production. 
+54. A second level of water needed for cooking and human and household maintainance will be charge at cost of production. 
 
-41. In a third level, the consumption will be subtiered, where greater amount consumption would be taxed at a greater rate (with the intention to discourage waste, reduce overconsumption and on contrary incentivize self moderation).   
+55. In a third level, the consumption will be subtiered, where greater amount consumption would be taxed at a greater rate (with the intention to discourage waste, reduce overconsumption and on contrary incentivize self moderation).   
 -
 .
 ## PROPERTY TAX: "Base of the concept of life state" 
 ### Residencial Property tax
-42. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen and dinning room. 
+56. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen and dinning room. 
 
-43. The system is planned as a live/cycle of natural upsizing and downsizing proportions. 
+57. The system is planned as a live/cycle of natural upsizing and downsizing proportions. 
 
 a. Entry level housing, usually apartments used by young adults single college students or widowed pensioners.
 
@@ -151,81 +151,81 @@ b. Couple housing is an intermediate level of housing where rights are legally s
 
 c. Family housing is the ultimate, larger protected ownership strategy including a backward, garage and garden.
 
-44. Special considerations have been taken in order to grant medical attention to pregnant women, newly borns and elders by placing their residences closer to these facilities. 
+58. Special considerations have been taken in order to grant medical attention to pregnant women, newly borns and elders by placing their residences closer to these facilities. 
 
-45. The size of this residencial property exempt from taxes is determined by the "the median size of a lot for new construction". 
+59. The size of this residencial property exempt from taxes is determined by the "the median size of a lot for new construction". 
 
-46. The taxes increase by 10% progressively with the number of properties owned, up to 9 properties, where the taxation reached 90%, making the investment practicaly inprofitable. 
+60. The taxes increase by 10% progressively with the number of properties owned, up to 9 properties, where the taxation reached 90%, making the investment practicaly inprofitable. 
 
-47. Every residential rental is considered de facto a rent-to-own contract in benefit of the person renting.
+61. Every residential rental is considered de facto a rent-to-own contract in benefit of the person renting.
  
 ### Agricultural, Commercial and Industrial Property Tax
-48. A similar tiered taxation system is applicable to agricultural, industrial and commercial land, considering the total percentage of land available within the geographic territory/the river basin. 
+62. A similar tiered taxation system is applicable to agricultural, industrial and commercial land, considering the total percentage of land available within the geographic territory/the river basin. 
 
-49. Corporations can't own houses neither they can own industrial, commercial or agricultural land, they can only rent it, being the most profitable strategy to rent it directly from several of its employees or investors, as the first property owned by them outside of their residencial houses. 
+63. Corporations can't own houses neither they can own industrial, commercial or agricultural land, they can only rent it, being the most profitable strategy to rent it directly from several of its employees or investors, as the first property owned by them outside of their residencial houses. 
 -
 .
 ## COUNTER TAXATION:
 
-50. Financial payments will be granted for processing neighboors black waters and organic leftovers, plastics, glass, metals, electronics, etc. in order to reintroduce the materials to the productive chain.
+64. Financial payments will be granted for processing neighboors black waters and organic leftovers, plastics, glass, metals, electronics, etc. in order to reintroduce the materials to the productive chain.
 -
 .
 ## EXECUTIVE BRANCH
-51. The fundamental training for all professional private administrators is essential to guarantee that, only those with the experience (19 years) AND the vocation, study and apply for the starting positions as local public administrators. 
+65. The fundamental training for all professional private administrators is essential to guarantee that, only those with the experience (19 years) AND the vocation, study and apply for the starting positions as local public administrators. 
  
-52. All candidates must select one of the faculties assigned to the career path alined to one of the executive ministeries. 
+66. All candidates must select one of the faculties assigned to the career path alined to one of the executive ministeries. 
 
-53. The faculties guarantee that the graduate is updated with professional international standards before assigning a diploma after a cycle (4 years and 9 months). 
+67. The faculties guarantee that the graduate is updated with professional international standards before assigning a diploma after a cycle (4 years and 9 months). 
 
-54. The certification is granted by peer reviewed professional associations. 
+68. The certification is granted by peer reviewed professional associations. 
 
-55. Any graduated person of any age would be able to study public administration from all the materials provided by the previous test cycles and further materials available. 
+69. Any graduated person of any age would be able to study public administration from all the materials provided by the previous test cycles and further materials available. 
 
-56. The first possition available to be filled is the local secretary of education, health, defense, etc. (all the different ministery/careers of the executive power in the territory).   
+70. The first possition available to be filled is the local secretary of education, health, defense, etc. (all the different ministery/careers of the executive power in the territory).   
 
-57. The candidate optaining the highest score, within each faculty/ministry career path, in the test gets assigned the position.
+71. The candidate optaining the highest score, within each faculty/ministry career path, in the test gets assigned the position.
 
-53. The three runner ups, get a contract to develop the next cycle test (4 years 9 months), being responsible each one to formulate 33 questions, 4 option/multiple selection, that must be peer reviewed by the other two companions, must keep, absolute secrecy, and the questions will be public on the next assesstment day while the next generation of candidates aspire to the positions in real time, online, TV transmitted tests.
+72. The three runner ups, get a contract to develop the next cycle test (4 years 9 months), being responsible each one to formulate 33 questions, 4 option/multiple selection, that must be peer reviewed by the other two companions, must keep, absolute secrecy, and the questions will be public on the next assesstment day while the next generation of candidates aspire to the positions in real time, online, TV transmitted tests.
 
-54. Ending the cycle, the secretaries can aspire to two public positions: Local Major Administrator (compiting with all the local secretaries of the other fields) AND/OR District secretary (compiting with all the other local secretaries within the same field).  
+73. Ending the cycle, the secretaries can aspire to two public positions: Local Major Administrator (compiting with all the local secretaries of the other fields) AND/OR District secretary (compiting with all the other local secretaries within the same field).  
 
-56. The local district position as local Major is granted to those reaching the highest scores among the other candidates. 
+74. The local district position as local Major is granted to those reaching the highest scores among the other candidates. 
 
-57. The same system of 3 runner ups developing the next test cycle, is applied throughtout all the positions.  
+75. The same system of 3 runner ups developing the next test cycle, is applied throughtout all the positions.  
 
-48. The best Majors and Governors are also progressively promoted towards a wider geographical area until one reaches the position as President (Head of the State) of the river basin/territory. 
+76. The best Majors and Governors are also progressively promoted towards a wider geographical area until one reaches the position as President (Head of the State) of the river basin/territory. 
 
-49. The administrators that are not selected to promotion end their public career and should resume the administration of private enterprises.
+77. The administrators that are not selected to promotion end their public career and should resume the administration of private enterprises.
 
-50. In order to guarantee that the best Public Officer is selected, Artificial Inteligence would be used to develop and standarise a scoring system that compensate evenly the several variables involved in governing different geographical, sociological and economical areas. 
+78. In order to guarantee that the best Public Officer is selected, Artificial Inteligence would be used to develop and standarise a scoring system that compensate evenly the several variables involved in governing different geographical, sociological and economical areas. 
 -
 .
 ## RELEASING THE BUDGET 
-51. Publicly disclosed smart contracts based on locked resources creditable only to purchases in open bids. 
+79. Publicly disclosed smart contracts based on locked resources creditable only to purchases in open bids. 
 
-52. Corporations bidding to get assigned public contracts are legally responsible for fraud, corruption, delivering faulty products of services and their responsibility undergo banning the company and its executives from contracting with the government again.
+80. Corporations bidding to get assigned public contracts are legally responsible for fraud, corruption, delivering faulty products of services and their responsibility undergo banning the company and its executives from contracting with the government again.
 
-53. Corrupt politicians are punished by the expropiation of all the assets under their names and assigned home detention in the middle of the poorest neighboorhood of the river basin during one generation 19 years, not eligible for bail or time reduction. 
+81. Corrupt politicians are punished by the expropiation of all the assets under their names and assigned home detention in the middle of the poorest neighboorhood of the river basin during one generation 19 years, not eligible for bail or time reduction. 
 -
 .
 ## LEGISLATIVE BRANCH
 ### LOWER CAMERA: SCIENTIFIC SPECIALIST:
-52. Legislators must be commitees (3, 5 or 7 members?) of professors/researchers in each specific area to be regulated, particularly experts in quantitatible research and conducting sample implementations before proposing laws that must be peer reviewed. 
+82. Legislators must be commitees (3, 5 or 7 members?) of professors/researchers in each specific area to be regulated, particularly experts in quantitatible research and conducting sample implementations before proposing laws that must be peer reviewed. 
 
-53. In the same manner of the executive role, legislative officers are not popularly elected but promoted within a generational scoring system of performance. 
+83. In the same manner of the executive role, legislative officers are not popularly elected but promoted within a generational scoring system of performance. 
 
-54. Executive and legislative profesionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in a congress of specialist, etc. 
+84. Executive and legislative profesionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in a congress of specialist, etc. 
 
-55. After graduation, professionals aspiring to initiate a career path as public legislators must study the 'Legislative affairs' courses and enter a generational competition similar to the one explained for the executive branch.  
+85. After graduation, professionals aspiring to initiate a career path as public legislators must study the 'Legislative affairs' courses and enter a generational competition similar to the one explained for the executive branch.  
 -
 .
 ### UPPER CAMERA: COORELATION/STATISTICS COMMITEE. 
 
-56. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
+86. A council, (3, 5, 7 members?) group of profesionals in quantitatible research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
 
-57. Such positions are optained by a public career in the field, via progressive promotion. 
+87. Such positions are optained by a public career in the field, via progressive promotion. 
 -
 .
 ### ETHICAL CONSIDERATIONS.
 
-58. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
+88. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
