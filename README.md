@@ -140,7 +140,7 @@ Creators are paid in royalties, revenue commission and other residuals proportio
 -
 .
 ## PROPERTY TAX: "Base of the concept of life state" 
-###Residencial Property tax:
+### Residencial Property tax
 42. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen and dinning room. 
 
 43. The system is planned as a live/cycle of natural upsizing and downsizing proportions. 
@@ -159,7 +159,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 47. Every residential rental is considered de facto a rent-to-own contract in benefit of the person renting.
  
-###Agricultural, Commercial and Industrial Property Tax.
+### Agricultural, Commercial and Industrial Property Tax
 48. A similar tiered taxation system is applicable to agricultural, industrial and commercial land, considering the total percentage of land available within the geographic territory/the river basin. 
 
 49. Corporations can't own houses neither they can own industrial, commercial or agricultural land, they can only rent it, being the most profitable strategy to rent it directly from several of its employees or investors, as the first property owned by them outside of their residencial houses. 
