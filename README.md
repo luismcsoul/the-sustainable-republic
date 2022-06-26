@@ -11,7 +11,7 @@ absolutely all sort of medical, intelectual, productivity variables correlated t
 
 4. This is a template for a dystopian control system based on algorithms.  
 
-5. The idea is to signal escape routes to ongoing/natural corporative/monopolistic tendencies: an algorithm against the algorithm. 
+5. The idea is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs in parallel to the current mega tech algorithms feeding corrupt politicians and legislation that keep and amplify unsustainable practices affecting health and environment. 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
@@ -29,9 +29,9 @@ absolutely all sort of medical, intelectual, productivity variables correlated t
 .
 ## SECOND PART: "NO POPULAR ELECTION"
 
-11. The project of an enciclopedic republic, guided by the illustration, was naturally controlled from the beginning by the sponsoring 'affluents' and corporations (nowdays). 
+11. The project of an enciclopedic republic, guided by "Age of Enlightenment", was naturally controlled from the beginning by the sponsoring 'affluents' and corporations (nowdays). 
 
-12. The popular election is highly inefficient due to the lack of coordination between science, tax collection and budget execution. 
+12. The popular election is highly inefficient due to the lack of coordination between science, law formulation, tax collection and budget execution. 
 
 13. Notice than politics is the only area of human interaction where a generalist is choosen to do a very specific job which, outside of this irrational model, would be considered absurd: the best example would be to chose by popular election the person performing an open heart surgery.
 
@@ -40,6 +40,7 @@ absolutely all sort of medical, intelectual, productivity variables correlated t
 15. The ideal template of governmental management would imply the final goal of zero public officers: Automation. 
 
 16. It is our responsibility as ideologists to study every country/farm and select/handpick from them the best proven policies (one by one) to construct a republic with the best features of existing republics and added features currently yet to be implemented. 
+a. Everything in this project is adjustable to local demographics but aims to be scalable. 
 -
 .
 ## THIRD PART: "A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRACY"
@@ -61,7 +62,7 @@ absolutely all sort of medical, intelectual, productivity variables correlated t
 .
 ## FOURTH PART: "ENVIRONMENTALLY ORIENTED SUSTAINABLE GOVERNANCE" 
 ### (THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES)
-Things that work on scientific basis, like banning the use of lead in the gasoline or the usage of Chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
+Things that work on scientific basis, like banning the use of lead in the gasoline or the usage of chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
 
 24. The republic aim to extend the concept of 'kind' into a wider perspective, challenging traditional restricted models where only other selected humans are considered as such in relation to their proximity in terms of biological evolutionary kingdom, aesthetics, health conditions, country of origin, race, gender, age, religious, political and sport affiliations.
 
@@ -69,14 +70,15 @@ Things that work on scientific basis, like banning the use of lead in the gasoli
 
 26. Geographical/political areas would be alighned to river basins.
 
-27. The areas between contiguous territories configure ecologically protected areas where 'rivers are born' and both border territories agree to preserve an 'Excluyent economic zone' (the opposite of the 'exclusive economic zone' for seas) where would be agreed to avoid any human intervention and/or minimize the human impact via relocating human settlers and building bridges for animals. 
+27. The areas between contiguous territories configure ecologically protected areas where 'rivers are born' and both border territories agree to preserve an 'Excluyent economic zone' (the opposite of the 'exclusive economic zone' for the exploitation of seashores) where would be agreed to avoid any human intervention and/or minimize the human impact via relocating human settlers, reforestating with local ancentral species and building bridges for animals. 
 
 28. Tributary river systems serve to track responsibilities and compensations to the city states inmediate under them regarding the plastic and chemical polution in the water. 
 
 29. For example: Uganda must pay South Sudan, for the polution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
-The amount to be paid will represent the exact amount that it would cost to heal the damages.
 
-30. Notice how local goverments should therefore seek to transfer this accountability to corporations and urban water discharges to the river systems and other environmental damages like gas emissions, noise pollution, etc. 
+29. b. The amount to be paid will represent the exact amount that it would cost to heal the damages.
+
+30. Notice how local goverments should therefore seek to transfer this accountability to corporations and urban settlements by tracking the water discharges to the river systems and other environmental damages like gas emissions, noise pollution, etc. 
 
 31. By doing so, corporations will effectively and unavoidably, transfer these costs to the final customers, as price increases: facilitating the reconsideration of their daily decisions based on real environmentally accountability. 
 -
@@ -88,7 +90,7 @@ The amount to be paid will represent the exact amount that it would cost to heal
  
 34. Accounting will be public in real time per transaction, and financial reports will be publicly shared on a daily basis. 
 
-35. Once an employee leaves the company his corresponding equity will be purchased from the public shares and the internal shares will be burned in order to rebalance the equity among the updated employees. 
+35. Once an employee leaves the company, his corresponding equity will be purchased from the public shares and the internal shares will be burned in order to rebalance the equity among the updated employees. 
 
 36. The total liabilities of a company can't exceed ten times the net income AND/OR ten times the tangigle shareholder's equity (Shareholders equity minus the total intangible assets).
 -
@@ -246,6 +248,9 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 96. In case a prosecutor is involved in a conflict, and it would be needed to be questioned itself, an "ad hoc" (for this purpose only) prosecutor would be assigned to assume the position until the case is dismissed or sentenced.  
 -
 .
+## TOKENOMICS.
+97. All economical transactions, salaries, lending quotas, morgages, service bills are calculated in terms of minimum wages and are adjusted to inflation proportionately. 
+
 ## ETHICAL CONSIDERATIONS.
 
-97. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
+98. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
