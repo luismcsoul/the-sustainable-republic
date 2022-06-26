@@ -10,7 +10,7 @@
 
 4. Absolutely all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
 
-5. The idea is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs in against the current mega tech algorithms feeding corrupt politicians and legislation that keep and amplify unsustainable practices affecting health and environment. 
+5. The idea is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs against the current mega tech algorithms feeding corrupt politicians and laws that perpetuate and amplify unsustainable practices affecting the overall health of the environment. 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
