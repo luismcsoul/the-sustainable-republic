@@ -255,7 +255,8 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 99. Duration of the morgages are fixed to 19 years under the "rent to own" scheme. 
 
 100. Only residents of the river basin can own land in order to avoid unreachable price increases that would affect local inhabitants.  
-
+-
+.
 ## ETHICAL CONSIDERATIONS.
 
 101. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
