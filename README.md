@@ -2,14 +2,13 @@
 
 ## INTRODUCTION: "ESCAPE ROUTES"
 
-1. Block and Chain are words loaded with slavery connotations: mining/landfield/squarified urban aglomeration/barcoding/jailing (see the essay 'the smooth and the striated').
+1. A parent ledger is being deployed  by mega tech corporations in order to register all the data since confirmed pregnacy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
 
-2. Currently the term refers to ledgers for transactions within a mass datification process: 
-absolutely all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
+2. This is a template for a dystopian control system based on algorithms.  
 
-3. A parent ledger is being deployed  by mega tech corporations in order to register all the data since confirmed pregnacy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
+3. Ledgers for transactions within a mass datification process: 
 
-4. This is a template for a dystopian control system based on algorithms.  
+4. Absolutely all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
 
 5. The idea is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs in against the current mega tech algorithms feeding corrupt politicians and legislation that keep and amplify unsustainable practices affecting health and environment. 
 -
