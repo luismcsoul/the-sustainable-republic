@@ -11,7 +11,7 @@ absolutely all sort of medical, intelectual, productivity variables correlated t
 
 4. This is a template for a dystopian control system based on algorithms.  
 
-5. The idea is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs in parallel to the current mega tech algorithms feeding corrupt politicians and legislation that keep and amplify unsustainable practices affecting health and environment. 
+5. The idea is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs in against the current mega tech algorithms feeding corrupt politicians and legislation that keep and amplify unsustainable practices affecting health and environment. 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
@@ -249,8 +249,14 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 -
 .
 ## TOKENOMICS.
-97. All economical transactions, salaries, lending quotas, morgages, service bills are calculated in terms of minimum wages and are adjusted to inflation proportionately. 
+97. All economical transactions, salaries, lending quotas, morgages, service bills are calculated in terms of minimum wages and are adjusted to inflation proportionately.
+
+98. The median morgage payment will correspond to 20% to the median net income.
+
+99. Duration of the morgages are fixed to 19 years under the "rent to own" scheme. 
+
+100. Only residents of the river basin can own land in order to avoid unreachable price increases that would affect local inhabitants.  
 
 ## ETHICAL CONSIDERATIONS.
 
-98. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
+101. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
