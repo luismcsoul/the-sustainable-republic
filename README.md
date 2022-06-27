@@ -200,7 +200,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 78. In order to guarantee that the best Public Officer is selected, Artificial Inteligence would be used by the people writting the questions for the tests/position promotions in order to develop and standarise a scoring system that compensate evenly the several variables involved in governing different geographical, sociological and economical areas. 
 
-79. In order to contrast the results from the generational scoring system with the results of his mandate in term of efficient administration, a dualistic metric would be taken into consideration during the overall evaluation. 
+78. b. In order to contrast the results from the generational scoring system with the results of his mandate in term of efficient administration, a dualistic metric would be taken into consideration during the overall evaluation. 
 -
 .
 ## RELEASING THE BUDGET 
