@@ -2,7 +2,7 @@
 
 ## INTRODUCTION: "ESCAPE ROUTES"
 
-1. The way we are proceeding is a continuation of an ancient colonial model: A parent ledger is being deployed  by mega tech corporations in order to register all the data from confirmed pregnancy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
+1. The world has been organized as a continuation of an ancient colonial model: A parent ledger is being deployed  by mega tech corporations in order to register all the data from confirmed pregnancy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
 
 2. Absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational privileges of the ultra high-net-worth individuals. 
 
