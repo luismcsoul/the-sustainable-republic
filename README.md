@@ -4,13 +4,13 @@
 
 1. A parent ledger is being deployed  by mega tech corporations in order to register all the data since confirmed pregnacy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
 
-2. This is a template for a dystopian control system based on algorithms.  
+2. Absolutely all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
 
-3. Ledgers for transactions within a mass datification process: 
+3. This is a template for a dystopian control system based on algorithms.  
 
-4. Absolutely all sort of medical, intelectual, productivity variables correlated to enviromental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational priviledges of the ultra high-net-worth individuals. 
+4. The idea of the sustainable republic is to signal escape routes to ongoing corporative/monopolistic tendencies: 
 
-5. The idea is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs against the current mega tech algorithms feeding corrupt politicians and laws that perpetuate and amplify unsustainable practices affecting the overall health of the environment. 
+5. an algorithm that runs against the current mega tech algorithms entertaining for advertising unsustainable corporations avoiding environmental charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their dirty practices affecting the overall health of the human population and environmental cycles. 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
