@@ -1,34 +1,34 @@
 # THE-SUSTAINABLE-REPUBLIC
 
-## INTRODUCTION: "ESCAPE ROUTES"
+## INTRODUCTION: "ESG REPROGRAMMING"
 
-1. The world has been organized as a continuation of an ancient colonial model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational privileges of ultra high-net-worth individuals.
+1. The project of an enciclopedic republic, guided by "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)", was naturally controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
-2. Current mega tech algorithms have been entertaining for advertising irresponsible corporations while avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
+2. The idea behind the existance of corporations relies on eliminating the legal accountability of individuals, while maximaxing profits in detriment of exploited landscapes, humans and animals.  
 
-3. Ledgers are being deployed in order to register all the data from confirmed pregnancy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
+3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has continuated the ancient colonial model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
 
-4. This is a template for a dystopian control system based on algorithms.  
+4. Current mega tech algorithms have been entertaining for advertising irresponsible corporations while avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
 
-5. The idea of the sustainable republic is to signal escape routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code/programming, and therefore we must pursue "an algorithm that runs against the algorithms". 
+5. This is a template for a dystopian control system based on algorithms.  
+
+6. The idea of the sustainable republic is to signal reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code/programming, and therefore we must pursue "an algorithm that runs against the algorithms". 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
 
-6. We killed all the other hominids and spread across the world due to being constantly forced to exile by militar sedentarism. 
+7. We killed all the other hominids and spread across the world due to being constantly forced to exile by militar sedentarism. 
 
-7. The world has been working like islands divided by farms. 
+8. The world has been working like islands divided by farms. 
 
-8. The "current" dilemma went worse with the taxation to military subordinated territories (robbery) exemplified in the Akkadian empire. 
+9. The "current" dilemma went worse with the taxation to military subordinated territories (robbery) exemplified in the Akkadian empire. 
 
-9. Every system of "capital/provinces" implies inefficient bureaucracy and corruption: basically a colonial model.
+10. Every current system of "capital/provinces" implies inefficient bureaucracy and corruption: basically a colonial model.
 
-10. The present proposed republic is a long term sustainable template for trans-continental and interconnected metropolitan areas organized by commuting patterns and river basins.  
+11. The present proposed republic is a long term sustainable template for trans-continental and interconnected metropolitan areas organized by commuting patterns and river basins.  
 -
 .
 ## SECOND PART: "NO POPULAR ELECTION"
-
-11. The project of an enciclopedic republic, guided by "Age of Enlightenment", was naturally controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
 12. The popular election is highly inefficient due to the lack of coordination between science, law formulation, tax collection and budget execution. 
 
