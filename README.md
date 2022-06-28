@@ -10,7 +10,7 @@
 
 4. This is a template for a dystopian control system based on algorithms.  
 
-5. The idea of the sustainable republic is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs against the algorithms. 
+5. The idea of the sustainable republic is to signal escape routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code/programming, and therefore we must pursue "an algorithm that runs against the algorithms". 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
