@@ -39,7 +39,6 @@
 15. The ideal template of governmental management would imply the final goal of zero public officers: Automation. 
 
 16. It is our responsibility as ideologists to study every country/farm and select/handpick from them the best proven policies (one by one) to construct a republic with the best features of existing republics and added features currently yet to be implemented. 
-a. Everything in this project is adjustable to local demographics but aims to be scalable. 
 -
 .
 ## THIRD PART: "A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRACY"
