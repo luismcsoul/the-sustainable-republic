@@ -4,7 +4,7 @@
 
 1. The world has been organized as a continuation of an ancient colonial model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational privileges of ultra high-net-worth individuals.
 
-2. Current mega tech algorithms entertaining for advertising irresponsible corporations avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
+2. Current mega tech algorithms have been entertaining for advertising irresponsible corporations while avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
 
 3. Ledgers are being deployed in order to register all the data from confirmed pregnancy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
 
