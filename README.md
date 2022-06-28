@@ -10,9 +10,9 @@
 
 4. Current mega tech algorithms have been entertaining for advertising irresponsible corporations while avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
 
-5. This is a template for a dystopian control system based on algorithms.  
+5. If nothing changes in towards the future, we would be heading towards a dystopian control system based on algorithms.  
 
-6. The idea of the sustainable republic is to signal reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code/programming, and therefore we must pursue "an algorithm that runs against the algorithms". 
+6. The idea of the sustainable republic is to signal [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that reshapes world governance". 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
