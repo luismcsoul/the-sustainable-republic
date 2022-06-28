@@ -216,10 +216,10 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 -
 .
 ## LEGISLATIVE BRANCH
-### LOWER CAMERA: SCIENTIFIC SPECIALIST:
-82. Legislators must be committees (3, 5 or 7 members?) of professors/researchers in each specific area to be regulated, particularly experts in quantitative research and conducting sample implementations before proposing laws that must be peer reviewed. 
+### LOWER CAMERA: SCIENTIFIC SPECIALISTS:
+82. Legislators must be committees (3 members) of professors/researchers in each specific area to be regulated, particularly experts in quantitative research and conducting sample implementations before proposing laws that must be peer reviewed. 
 
-83. In the same manner of the executive role, legislative officers are not popularly elected but promoted within a generational scoring system of performance. 
+83. In the same manner of the executive role, legislative officers are not popularly elected but promoted within a similar generational scoring system of performance. 
 
 84. Executive and legislative professionals must be directly correlated/mirrored branches, therefore for a minister of transportation there must be a commission of transportation in a congress of specialists, etc. 
 
@@ -227,9 +227,9 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 86. The legislative bodies would be responsible to design the plans of government to be executed by the executive branch during a cycle (4 years and 9 months) and other longer term goals and structural changes in the legislation. 
 
-87. Any citizen, following the protocols of drafting for a project/law, should be able to submit to its local legislator any new improvement for the existing laws and projects in order to seek optimization in the system: reduction of bureaucracy, times of service, automation, etc.
+87. Any citizen, following the protocols of drafting for a project/law, should be able to submit to its local legislator any new improvement for the existing laws and projects in order to seek optimization in the system: reduction of bureaucracy, times of service, reduction of raw materials used, automation, etc.
 
-88. Signatures from a statistically significant number of citizens would be needed in order to guarantee that an official public reply will be announced to each legislative proposal submitted.
+88. Signatures from a statistically significant number of citizens would be needed in order to guarantee that an official public reply will be announced to each legislative proposal submitted with an reasonable explanation of the implications for both pursuing or ignoring the proposed law.
 
 89. The cycle for introduction of new legislation: public test day determines the start of implementation of the previous updates, while the first third in office would be to evaluate the impact, the second third to settle the new legislation and recollect proposals from the citizens, the third part of the cycle would be to settle changes. 
 
@@ -240,7 +240,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 .
 ### UPPER CAMERA: CORRELATION/STATISTICS COMMITTEE. 
 
-92. A council (3, 5, 7 members?) of professionals in quantitative research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
+92. A council (3 members) of professionals in quantitative research, correlated variables and statistics will re-study the proposed laws  in order to forecast the implications to the general public; considering multidisciplinary crossed effects of the other areas. 
 
 93. Such positions are obtained by a public career in the field, via progressive promotion. 
 -
