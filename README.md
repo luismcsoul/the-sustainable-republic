@@ -1,6 +1,6 @@
 # THE-SUSTAINABLE-REPUBLIC
 
-## INTRODUCTION: "ESG REPROGRAMMING"
+## INTRODUCTION: "ENVIRONMENTAL AND SOCIAL GOVERNANCE REPROGRAMMING"
 
 1. The project of an enciclopedic republic, guided by "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)", was naturally controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
@@ -10,9 +10,9 @@
 
 4. Current mega tech algorithms have been entertaining for advertising irresponsible corporations while avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
 
-5. If nothing changes in towards the future, we would be heading towards a dystopian control system based on algorithms.  
+5. If nothing changes towards the future, we would be heading towards a dystopian control system based on algorithms.  
 
-6. The idea of the sustainable republic is to signal [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that reshapes world governance". 
+6. The idea of the sustainable republic is to signal [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that reshapes world's governance". 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
@@ -21,7 +21,7 @@
 
 8. The world has been working like islands divided by farms. 
 
-9. The "current" dilemma went worse with the taxation to military subordinated territories (robbery) exemplified in the Akkadian empire. 
+9. This ancient dilemma started to get worse with the taxation to militarily subordinated territories (robbery) exemplified in the Akkadian empire. 
 
 10. Every current system of "capital/provinces" implies inefficient bureaucracy and corruption: basically a colonial model.
 
