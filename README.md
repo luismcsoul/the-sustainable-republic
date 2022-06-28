@@ -140,7 +140,8 @@ Things that work on a scientific basis, like banning the use of lead in gasoline
 
 55.b. The charges for sewage system will be calculated as mirroring the water consumption adjusted to the total operational cost of the operator. 
 
-55.c. A similar tiered tax charges will be applied for the other utilities: gas, electricity, telecommunications, etc. 
+55.c. A similar tiered tax charges will be applied for the other utilities: gas, electricity, telecommunications, etc.
+
 -
 .
 ## PROPERTY TAX: "Base of the concept of life state" 
