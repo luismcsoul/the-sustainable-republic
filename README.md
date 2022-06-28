@@ -4,13 +4,13 @@
 
 1. The world has been organized as a continuation of an ancient colonial model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational privileges of ultra high-net-worth individuals.
 
-2. A parent ledger is being deployed  by mega tech corporations in order to register all the data from confirmed pregnancy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
+2. Current mega tech algorithms entertaining for advertising irresponsible corporations avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
 
-3. This is a template for a dystopian control system based on algorithms.  
+3. Ledgers are being deployed in order to register all the data from confirmed pregnancy until legal/biological death (disposition of the corpse and distribution of the belongings of the person who just passed).  
 
-4. The idea of the sustainable republic is to signal escape routes to ongoing corporative/monopolistic tendencies: 
+4. This is a template for a dystopian control system based on algorithms.  
 
-5. an algorithm that runs against the current mega tech algorithms entertaining for advertising irresponsible corporations avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their dirty practices. 
+5. The idea of the sustainable republic is to signal escape routes to ongoing corporative/monopolistic tendencies: an algorithm that runs against the algorithms. 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
