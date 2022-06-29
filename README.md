@@ -6,26 +6,26 @@
 
 2. The idea behind the existance of corporations relies on eliminating the legal accountability of individuals, while maximaxing profits in detriment of exploited landscapes, humans and animals.  
 
-3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has continuated the ancient colonial model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being milked/to/exhaustion in order to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
+3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has accelerated this colonial model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
 
-4. Current mega tech algorithms have been entertaining for advertising irresponsible corporations while avoiding environmental/health charges and at the same time sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
+4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell as much as possible advertising coming from consumer oriented corporations that avoid environmental and health charges and at the same time, all of them, sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
 
-5. If nothing changes towards the future, we would be heading towards a dystopian control system based on algorithms.  
+5. We are living a dystopian control system based on algorithms.  
 
-6. The idea of the sustainable republic is to signal [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that reshapes world's governance". 
+6. The idea of the sustainable republic is to signal [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that offers alternative governance". 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
 
 7. We killed all the other hominids and spread across the world due to being constantly forced to exile by militar sedentarism. 
 
-8. The world has been working like islands divided by farms. 
+8. This ancient dilemma started to get worse with the taxation to militarily subordinated territories (robbery) exemplified in the Akkadian empire. 
 
-9. This ancient dilemma started to get worse with the taxation to militarily subordinated territories (robbery) exemplified in the Akkadian empire. 
+9. Since then, the world has been working like islands divided by farms where "capital/provinces" implies inefficient bureaucracy and corruption: basically a colonial model.
 
-10. Every current system of "capital/provinces" implies inefficient bureaucracy and corruption: basically a colonial model.
+10. Currently this issue has been exacervated with the current visa system imprisioning humans to determined political territories according to the place where they were born. 
 
-11. The present proposed republic is a long term sustainable template for trans-continental and interconnected metropolitan areas organized by commuting patterns and river basins.  
+11. As a response, the present proposed republic is a long term sustainable template for parallel trans-continental and interconnected metropolitan areas organized by commuting patterns and river basins pursuing environmental and social sustainability.  
 -
 .
 ## SECOND PART: "NO POPULAR ELECTION"
