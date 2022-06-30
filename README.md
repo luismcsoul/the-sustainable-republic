@@ -170,6 +170,10 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 62. A similar tiered taxation system is applicable to agricultural, industrial and commercial land, considering the total percentage of land available within the geographic territory/the river basin. 
 
 63. Corporations can't own houses neither they can own industrial, commercial or agricultural land, they can only rent it, being the most profitable strategy to rent it directly from several of its employees or investors, as the first property owned by them outside of their residential houses. 
+
+63. b. On the positive side, the rental established by a corporation is always benefitial to the corporation, meaning the corporation has the right to extend indefinitely, if determined, the leasing of the property on a yearly basis.
+
+63. c. Every single company being imported and distributed from overseas and other river basins, must have a local mirrored corporation representing its brand and local financial performance, with minimum an office within the river basins that serves to track the economical responsibilities of the firm. 
 -
 .
 ## COUNTER TAXATION:
