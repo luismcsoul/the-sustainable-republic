@@ -179,6 +179,8 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 ## COUNTER TAXATION:
 
 64. Financial payments will be granted for processing neighbors black waters and organic leftovers, plastics, glass, metals, electronics, etc. in order to reintroduce the materials to the productive chain.
+
+65. Finacial incentives would be granted to the last inhabitants of the territory before reaching the exlusive non-economic zone, in order to guarantee that no humans are tresspassing towards the natural parks and protected areas and are the facto rangers. 
 -
 .
 ## EXECUTIVE BRANCH
