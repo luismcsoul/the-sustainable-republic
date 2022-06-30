@@ -78,7 +78,9 @@ Things that work on a scientific basis, like banning the use of lead in gasoline
 
 30. Notice how local governments should therefore seek to transfer this accountability to corporations and urban settlements by tracking the water discharges to the river systems and other environmental damages like gas emissions, noise pollution, etc. 
 
-31. By doing so, corporations will effectively and unavoidably, transfer these costs to the final customers, as price increases: facilitating the reconsideration of their daily decisions based on real environmentally accountability. 
+31. This will force the municipalities and corporations to treat the water before disposing it to the water systems, adding an extra expense to their opperations. 
+
+31.b. By doing so, corporations will effectively and unavoidably, transfer these costs to the final customers, as price increases: facilitating the reconsideration of their daily decisions (disincentivizing) based on real environmentally accountability. 
 -
 .
 ## CORPORATIVE STRUCTURES: "TRIPARTITE OWNERSHIP MODEL"
