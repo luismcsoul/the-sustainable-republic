@@ -2,7 +2,7 @@
 
 ## INTRODUCTION: "ENVIRONMENTAL AND SOCIAL GOVERNANCE REPROGRAMMING"
 
-1. The project of an enciclopedic republic, guided by "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)", was naturally controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
+1. The countries as we know them today are mixed products of an enciclopedic project guided by "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)" and it was controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
 2. The idea behind the existance of corporations relies on eliminating the legal accountability of individuals, while maximaxing profits in detriment of exploited landscapes, humans and animals.  
 
