@@ -178,6 +178,9 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 63. b. On the positive side, the rental established by a corporation is always benefitial to the corporation, meaning the corporation has the right to extend indefinitely, if determined, the leasing of the property on a yearly basis.
 
 63. c. Every single company being imported and distributed from overseas and other river basins, must have a local mirrored corporation representing its brand and local financial performance, with minimum an office within the river basins that serves to track the economical responsibilities of the firm. 
+
+63. d. In the same way every raw material being exported overseas and to other river basins, must have a local mirrored corporation representing its brand and local financial performance, with minimum an office within the river basins and the salaries of the employees should be leveled up to the country where the raw materials are being transformed. 
+ 
 -
 .
 ## COUNTER TAXATION:
