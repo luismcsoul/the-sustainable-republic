@@ -2,20 +2,20 @@
 
 ## INTRODUCTION: "ENVIRONMENTAL AND SOCIAL GOVERNANCE REPROGRAMMING"
 
-1. The countries as we know them today are mixed products of an enciclopedic project guided by "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)" and they have been controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
+1. The countries as we know them today are products of enciclopedic projects guided by "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)" but controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
-2. The idea behind the existance of corporations relies on eliminating the legal accountability of individuals, while maximaxing profits in detriment of exploited landscapes, humans and animals.  
+2. Corporations exists to eliminate legal accountability of individuals, while maximaxing profits in detriment of exploited landscapes, humans and animals.  
 
-3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has accelerated this colonial model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
+3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has accelerated this model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
 
-4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell as much as possible advertising coming from consumer oriented corporations that avoid environmental and health charges and at the same time, all of them, sponsoring campaigns of corrupt politicians and so securing laws that perpetuate and amplify their faulty practices.
+4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell as much as possible advertising. This advertisement comes from consumer oriented corporations avoiding environmental and health charges. Both mega tech and consumer oriented corporations sponsor campaigns of corrupt politicians in order to secure laws that perpetuate and amplify their faulty practices.
 
 5. We are living a dystopian control system based on algorithms.  
 
 6. The idea of the sustainable republic is to signal [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that offers alternative governance". 
 -
 .
-## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS AS A LABORATORY FARM"
+## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS LIKE A LABORATORY FARM"
 
 7. We killed all the other hominids and spread across the world due to being constantly forced to exile by militar sedentarism. 
 
@@ -23,7 +23,7 @@
 
 9. Since then, the world has been working like islands divided by farms where "capital/provinces" implies inefficient bureaucracy and corruption: basically a colonial model.
 
-10. Currently this issue has been exacervated with the current visa system imprisioning humans to determined political territories according to the place where they were born. 
+10. Currently this issue has been exacervated with the current visa system imprisioning humans to determined political territories according to the place where they were born but at the same time allowing the flow of raw materials out of those territories in a perfect recipe for war and terrorist attacks. 
 
 11. As a response, the present proposed republic is a long term sustainable template for parallel trans-continental and interconnected metropolitan areas organized by commuting patterns and river basins pursuing environmental and social sustainability.  
 -
@@ -34,7 +34,7 @@
 
 13. Notice that politics is the only area of human interaction where a generalist is chosen to do a very specific job which, outside of this irrational model, would be considered absurd: the best example would be to choose by popular election the person performing an open heart surgery.
 
-14. Models for evaluating standardized good governance were never thought until now when artificial intelligence is exceling humans in every single imaginable category. 
+14. Models for evaluating standardized good governance were never thought until now when all works are using big data, machine learning and artificial intelligence to pursue logic processing of tasks. 
 
 15. The ideal template of governmental management would imply the final goal of zero public officers: Automation. 
 
