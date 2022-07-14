@@ -276,6 +276,9 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 99. Duration of the mortgages are fixed to 19 years under the "rent to own" scheme. 
 
 100. Only residents of the river basin can own land in order to avoid unreachable price increases that would affect local inhabitants.  
+
+## INTERNATIONAL MOBILITY.
+101. If a company inside your river basin is importing raw materials from another river basin: all the employees participating in the extraction, collection, transportation, operation of this production are granted a special seasonal tourist visa with option for temporary employment, in your country.  
 -
 .
 ## ETHICAL CONSIDERATIONS.
