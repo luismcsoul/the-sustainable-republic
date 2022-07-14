@@ -201,7 +201,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 69. Any graduated person of any age would be able to study public administration from all the materials provided by the previous test cycles and further materials available. 
 
-70. The first position available to be filled is the local secretary of education, health, defense, etc. (all the different ministries/careers of the executive power in the territory).   
+70. The first position available to be filled is the local secretary of: education, health, defense, etc. (all the different ministries/careers of the executive power in the territory).   
 
 71. The candidate obtaining the highest score, within each faculty/ministry career path, in the test gets assigned the position.
 
@@ -283,5 +283,5 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 .
 ## ETHICAL CONSIDERATIONS.
 
-101. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
+102. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
 
