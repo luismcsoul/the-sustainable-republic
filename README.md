@@ -281,9 +281,14 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 ## INTERNATIONAL MOBILITY.
 101. If a company inside your river basin is importing raw materials from another river basin: all the employees participating in the extraction, collection, transportation, operation of this production are granted a special seasonal tourist visa with option for temporary employment, in your country.  
+
+102. For every employee employed overseas, the country receiving the raw materials must grant one work visa for a citizen of the exporting river basin. 
+
+103. In order to reduce illegal imigration, countries with high GDP per capita will start implementing a remote work scheme in which skillful workers from overseas are granted a remote work permission, therefore able to use the salaries to propel their local development via entrepreneurship. 
+
 -
 .
 ## ETHICAL CONSIDERATIONS.
 
-102. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
+103. The ethical effects of the scholastic generational technocracy would be equal to the median ethical awareness of the population being represented.
 
