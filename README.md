@@ -2,9 +2,9 @@
 
 ## INTRODUCTION: "ENVIRONMENTAL AND SOCIAL GOVERNANCE REPROGRAMMING"
 
-1. The countries as we know them today are products of enciclopedic projects guided by "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)" but controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
+1. The countries as we know them today are products of enciclopedic projects guided by the "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)" but controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
-2. Corporations exists to eliminate legal accountability of individuals, while maximaxing profits in detriment of exploited landscapes, humans and animals.  
+2. Corporations were created to eliminate legal accountability of individuals, while maximaxing profits in detriment of exploited landscapes, humans and animals.  
 
 3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has accelerated this model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
 
