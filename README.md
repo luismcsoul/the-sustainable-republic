@@ -166,9 +166,18 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 59. The size of this residential property exempt from taxes is determined by the "the median size of a lot for new construction". 
 
-60. The taxes must increase by 10% progressively with the number of properties owned, up to 9 properties, where the taxation reached 90%, making the investment practically unprofitable. 
+60. The taxes must increase by 10% progressively with the number of properties owned, up to 9 properties, where the taxation reached 90%, forcing the wealth to be invested in agricultural, commercial and industrial projects. 
 
 61. Every residential rental is considered de facto a rent-to-own contract in benefit of the person renting.
+
+61. b. Buildings: It is the responsibility of the government to have a geological study of the terrains in terms of accurately setting the maximum number of floors or altitude allowed for a building. 
+
+61. c. Every building must be pre sold to the final owners in areas corresponding to the average rental apartment area regardless of the final usage of the property. 
+
+61. d. The river basin government works as an intermediary within a public registry of properties tracked on a real time online interactive map where houses are labeled Dark Green (paid and inhabited by the owner), light green (owner paying so far on time), Yellow (house with warning delay on payment), red (House ready for eviction/on eviction date), Blue (house for sale). 
+
+61. e. In order to assign a new house the interested parties submit its application in the website and two criterias will be applied to grant the new rent-to-own contract: 1. The person with the least amount of properties gets privileged, 2. The person with the earliest submission gets privileged.  
+
  
 ### Agricultural, Commercial and Industrial Property Tax
 62. A similar tiered taxation system is applicable to agricultural, industrial and commercial land, considering the total percentage of land available within the geographic territory/the river basin. 
