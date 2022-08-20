@@ -236,7 +236,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 80. Corporations bidding to get assigned public contracts are legally responsible for fraud, corruption, delivering faulty products of services and their responsibility to dissolve the company and banning its executives from contracting with the government again.
 
-81. Both corrupt politicians and executives of the faulty contracting firms, are punished by the expropriation of all the assets under their names and assigned home detention in the middle of the poorest neighborhood of the river basin during one generation 19 years, not eligible for bail or time reduction. 
+81. Both corrupt politicians and executives of the faulty contracting firms, are punished by the expropriation of all the assets under their names and assigned home detention within a neighborhood of the river basin during one generation 19 years, not eligible for bail or time reduction. 
 -
 .
 ## LEGISLATIVE BRANCH
