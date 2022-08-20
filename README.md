@@ -62,7 +62,7 @@
 ### (THE 'PARIS AGREEMENT' MADE A MATHEMATICAL FORMULA FOR TAXATION/INCENTIVES)
 Things that work on a scientific basis, like banning the use of lead in gasoline or the usage of chlorofluorocarbons are the best examples on how coordination on proven facts is possible and necessary. 
 
-24. The republic aim to extend the concept of 'kind' into a wider perspective, challenging traditional restricted models where only other selected humans are considered as such in relation to their proximity in terms of biological evolutionary kingdom, aesthetics, health conditions, country of origin, race, gender, age, religious, political and sport affiliations.
+24. The republic aims to extend the concept of 'kind' into a wider perspective, challenging traditional restricted models where only other selected humans are considered as such in relation to their proximity in terms of biological evolutionary kingdom, aesthetics, health conditions, country of origin, race, gender, age, religious, political and sport affiliations.
 
 25. In the Republic the hierarchical order of rights starts with clean water and air being the top priority of any policy, followed by natural parks, native animals, plants and indigenous peoples.  
 
@@ -196,7 +196,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 64. Financial payments will be granted for processing neighbors black waters and organic leftovers, plastics, glass, metals, electronics, etc. in order to reintroduce the materials to the productive chain.
 
-65. Finacial incentives would be granted to the last inhabitants of the territory before reaching the exlusive non-economic zone, in order to guarantee that no humans are tresspassing towards the natural parks and protected areas and are the facto rangers. 
+65. Finacial incentives would be granted to the last inhabitants of the territory before reaching the exclusive non-economic zone, in order to guarantee that no humans are tresspassing towards the natural parks and protected areas and are the facto rangers. 
 -
 .
 ## EXECUTIVE BRANCH
