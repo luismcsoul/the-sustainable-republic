@@ -6,7 +6,7 @@
 
 2. It would be necessary to reformulate the legislation around corporations in a way that increases legal accountability of individuals, while regulating profits taken in detriment of exploited landscapes, humans and animals.  
 
-3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has accelerated this model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
+3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has accelerated an oppossite model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
 
 4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell advertising, as much as possible. This advertisement comes from consumer oriented corporations avoiding environmental and health charges. Both mega tech and consumer oriented corporations sponsor campaigns of corrupt politicians in order to secure laws that perpetuate and amplify their faulty practices.
 
