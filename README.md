@@ -4,11 +4,11 @@
 
 1. The countries as we know them today are products of enciclopedic projects guided by the "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)" but controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
-2. Corporations were created to eliminate legal accountability of individuals, while maximaxing profits in detriment of exploited landscapes, humans and animals.  
+2. It would be necessary to reformulate the legislation around corporations in a way that increases legal accountability of individuals, while regulating profits taken in detriment of exploited landscapes, humans and animals.  
 
 3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has accelerated this model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
 
-4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell as much as possible advertising. This advertisement comes from consumer oriented corporations avoiding environmental and health charges. Both mega tech and consumer oriented corporations sponsor campaigns of corrupt politicians in order to secure laws that perpetuate and amplify their faulty practices.
+4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell advertising, as much as possible. This advertisement comes from consumer oriented corporations avoiding environmental and health charges. Both mega tech and consumer oriented corporations sponsor campaigns of corrupt politicians in order to secure laws that perpetuate and amplify their faulty practices.
 
 5. We are living a dystopian control system based on algorithms.  
 
@@ -23,9 +23,9 @@
 
 9. Since then, the world has been working like islands divided by farms where "capital/provinces" implies inefficient bureaucracy and corruption: basically a colonial model.
 
-10. Currently this issue has been exacervated with the current visa system imprisioning humans to determined political territories according to the place where they were born but at the same time allowing the flow of raw materials out of those territories in a perfect recipe for war and terrorist attacks. 
+10. Currently this issue has been exacervated with the current visa system imprisioning humans to determined political territories according to the place where they were born but at the same time allowing the flow of raw materials out of those territories in a perfect recipe for war and revengeful terrorist attacks. 
 
-11. As a response, the present proposed republic is a long term sustainable template for parallel trans-continental and interconnected metropolitan areas organized by commuting patterns and river basins pursuing environmental and social sustainability.  
+11. As a response, the present proposed republic is a long term sustainable template for parallel trans-continental and interconnected metropolitan areas, organized by commuting patterns and river basins, pursuing environmental and social sustainability.  
 -
 .
 ## SECOND PART: "NO POPULAR ELECTION"
