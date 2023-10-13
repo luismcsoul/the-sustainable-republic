@@ -1,23 +1,23 @@
 # THE-SUSTAINABLE-REPUBLIC
 
-## INTRODUCTION: "ENVIRONMENTAL AND SOCIAL GOVERNANCE REPROGRAMMING"
+## INTRODUCTION: "REPROGRAMMING GOVERNANCE"
 
-1. The countries as we know them today are products of enciclopedic projects guided by the "[Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)" but controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
+1. The countries as we know them today are products of enciclopedic projects guided by the Age of Enlightenment but controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
 2. It would be necessary to reformulate the legislation around corporations in a way that increases legal accountability of individuals, while regulating profits taken in detriment of exploited landscapes, humans and animals.  
 
-3. With the '[Information Revolution](https://en.wikipedia.org/wiki/Information_revolution)' the world has accelerated an oppossite model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of [ultra high-net-worth individuals](https://en.wikipedia.org/wiki/Ultra_high-net-worth_individual).
+3. With the Information Revolution the world has accelerated an oppossite model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of Ultra high-net-worth individuals.
 
-4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell advertising, as much as possible. This advertisement comes from consumer oriented corporations avoiding environmental and health charges. Both mega tech and consumer oriented corporations sponsor campaigns of corrupt politicians in order to secure laws that perpetuate and amplify their faulty practices.
+4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell advertising. This advertisement comes from consumer oriented corporations avoiding environmental and health charges. Both mega tech and consumer oriented corporations sponsor campaigns of corrupt politicians in order to secure laws that perpetuate and amplify their faulty practices.
 
-5. We are living a dystopian control system based on algorithms.  
+5. We are living a dystopian control system based on algorithms presented as Constitutions, Laws, Manuals, etc. collectively known as the rules of the game.   
 
-6. The idea of the sustainable republic is to signal [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that offers alternative governance". 
+6. The idea of the sustainable republic is to signal reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that offers alternative governance". 
 -
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS LIKE A LABORATORY FARM"
 
-7. We killed all the other hominids and spread across the world due to being constantly forced to exile by militar sedentarism. 
+7. Counting few exceptions, we killed all the other hominidsm and spread across the world due to being constantly forced to exile by militar sedentarism. 
 
 8. This ancient dilemma started to get worse with the taxation to militarily subordinated territories (robbery) exemplified in the Akkadian empire. 
 
@@ -25,7 +25,7 @@
 
 10. Currently this issue has been exacervated with the current visa system imprisioning humans to determined political territories according to the place where they were born but at the same time allowing the flow of raw materials out of those territories in a perfect recipe for war and revengeful terrorist attacks. 
 
-11. As a response, the present proposed republic is a long term sustainable template for parallel trans-continental and interconnected metropolitan areas, organized by commuting patterns and river basins, pursuing environmental and social sustainability.  
+11. As a response, the present proposed republic is a long term sustainable template for parallel trans-continental and interconnected metropolitan areas, organized by commuting patterns and river basins, pursuing holistic sustainability.  
 -
 .
 ## SECOND PART: "NO POPULAR ELECTION"
@@ -72,7 +72,7 @@ Things that work on a scientific basis, like banning the use of lead in gasoline
 
 28. Tributary river systems serve to track responsibilities and compensations to the city states immediately under them regarding the plastic and chemical pollution in the water. 
 
-29. For example: Uganda must pay South Sudan, for the pollution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
+29. For example, using current frontiers: Uganda must pay South Sudan, for the pollution discharged in the Nile, while South Sudan and Ethiopia, must pay Sudan for the pollution discharged in the Nile and at the same time, Sudan must compensate Egypt for the pollution discharged, while Egypt must pay the other territories for the pollution discharged to the mediterranean sea. 
 
 29. b. The amount to be paid will represent the exact amount that it would cost to heal the damages.
 
@@ -80,7 +80,9 @@ Things that work on a scientific basis, like banning the use of lead in gasoline
 
 31. This will force the municipalities and corporations to treat the water before disposing it to the water systems, adding an extra expense to their opperations. 
 
-31. b. By doing so, corporations will effectively and unavoidably, transfer these costs to the final customers, as price increases: facilitating the reconsideration of their daily decisions (disincentivizing) based on real environmentally accountability. 
+31. b. By doing so, corporations will effectively and unavoidably, transfer these costs to the final customers, as price increases: facilitating the reconsideration of their daily decisions (disincentivizing) based on real environmentally accountability.
+
+32. Other consequence of this would imply the incentive to develop self suficiency at household level. 
 -
 .
 ## CORPORATIVE STRUCTURES: "TRIPARTITE OWNERSHIP MODEL"
@@ -92,7 +94,11 @@ Things that work on a scientific basis, like banning the use of lead in gasoline
 
 35. Once an employee leaves the company, his corresponding equity will be purchased from the public shares and the internal shares will be burned in order to rebalance the equity among the updated employees. 
 
-36. The total liabilities of a company can't exceed ten times the net income AND/OR ten times the tangible shareholder's equity (Shareholders equity minus the total intangible assets).
+36. The total liabilities of a company will have a ratio of proportionality to the tangible shareholder's equity (Shareholders equity minus the total intangible assets), after which the government will expedite bankruptcy procedures.
+
+37. There will be only one taxation system applied to all sorts of income of all clases, where higher amounts transacted will be taxed at higher rates.
+
+38. A system of supply chain tracking individualized items sold must be matched with an individual tax identification online card. 
 -
 .
 ## COPYRIGHTS, INDUSTRIAL AND DESIGN PATENTS ARE LINKED TO THE CREATOR VIA BLOCKCHAIN
