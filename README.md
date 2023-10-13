@@ -286,7 +286,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 ## TOKENOMICS.
 97. All economic transactions, salaries, lending quotas, mortgages, service bills are calculated in terms of minimum wages and are adjusted to inflation proportionately.
 
-98. The median mortgage payment will correspond to 20% to the median net income.
+98. The median mortgage payment will correspond to 20% to the median net income and this proportion will be reduced as the society progresses.
 
 99. Duration of the mortgages are fixed to 19 years under the "rent to own" scheme. 
 
