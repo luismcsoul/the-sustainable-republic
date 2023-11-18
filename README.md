@@ -17,7 +17,7 @@
 .
 ## FIRST PART: "EVERY COUNTRY ON THE PLANET WORKS LIKE A LABORATORY FARM"
 
-7. Counting few exceptions, we killed all the other hominidsm and spread across the world due to being constantly forced to exile by militar sedentarism. 
+7. Counting few exceptions, we killed all the other hominids and spread across the world due to being constantly forced to exile by militar sedentarism. 
 
 8. This ancient dilemma started to get worse with the taxation to militarily subordinated territories (robbery) exemplified in the Akkadian empire. 
 
