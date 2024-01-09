@@ -260,7 +260,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 87. Any citizen, following the protocols of drafting for a project/law, should be able to submit to its local legislator any new improvement for the existing laws and projects in order to seek optimization in the system: reduction of bureaucracy, times of service, reduction of raw materials used, automation, etc.
 
-88. Signatures from a statistically significant number of citizens would be needed in order to guarantee that an official public reply will be announced to each legislative proposal submitted with an reasonable explanation of the implications for both pursuing or ignoring the proposed law.
+88. Signatures from a statistically significant number of citizens would be needed in order to guarantee that an official public reply will be announced to each legislative proposal submitted with a reasonable explanation of the implications for both pursuing or ignoring the proposed law.
 
 89. The cycle for introduction of new legislation: public test day determines the start of implementation of the previous updates, while the first third in office would be to evaluate the impact, the second third to settle the new legislation and recollect proposals from the citizens, the third part of the cycle would be to settle changes. 
 
