@@ -203,7 +203,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 64. Financial payments will be granted for processing neighbors black waters and organic leftovers, plastics, glass, metals, electronics, etc. in order to reintroduce the materials to the productive chain.
 
-65. Finacial incentives would be granted to the last inhabitants of the territory before reaching the exclusive non-economic zone, in order to guarantee that no humans are tresspassing towards the natural parks and protected areas and are the facto rangers. 
+64. b. Finacial incentives would be granted to the last inhabitants of the territory before reaching the exclusive non-economic zone, in order to guarantee that no humans are tresspassing towards the natural parks and protected areas and are the facto rangers. 
 -
 .
 ## EXECUTIVE BRANCH
