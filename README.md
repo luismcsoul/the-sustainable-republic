@@ -168,7 +168,7 @@ b. Couple housing is an intermediate level of housing where rights are legally s
 
 c. Family housing is the ultimate, larger protected ownership strategy including a backward, garage and garden.
 
-58. Special considerations have been taken in order to grant medical attention to pregnant women, newborns and elders by placing their residences closer to these facilities. 
+58. Special considerations have been taken in order to grant medical attention to pregnant women, newborns and elders by placing their residences closer to medical facilities. 
 
 59. The size of this residential property exempt from taxes is determined by the "the median size of a lot for new construction". 
 
