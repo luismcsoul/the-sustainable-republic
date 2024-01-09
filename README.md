@@ -182,8 +182,9 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 61. d. The river basin government works as an intermediary within a public registry of properties tracked on a real time online interactive map where houses are labeled Dark Green (paid and inhabited by the owner), light green (owner paying so far on time), Yellow (house with warning delay on payment), red (House ready for eviction/on eviction date), Blue (house for sale). 
 
-61. e. In order to assign a new house the interested parties submit its application in the website and two criterias will be applied to grant the new rent-to-own contract: 1. The person with the least amount of properties gets privileged, 2. The person with the earliest submission gets privileged.  
+61. e. In order to assign a new house the interested parties submit its application to the goverment public ledger and two criterias will be applied to grant the new rent-to-own contract: 1. The person with the least amount of properties gets privileged, 2. The person with the earliest submission gets privileged.  
 
+61. f. All projects are subject to natural mixed-use development since has been proven that local building restrictions affect long term and wider populations. 
  
 ### Agricultural, Commercial and Industrial Property Tax
 62. A similar tiered taxation system is applicable to agricultural, industrial and commercial land, considering the total percentage of land available within the geographic territory/the river basin. 
