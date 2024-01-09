@@ -291,7 +291,9 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 
 99. Duration of the mortgages are fixed to 19 years under the "rent to own" scheme. 
 
-100. Only residents of the river basin can own land in order to avoid unreachable price increases that would affect local inhabitants.  
+100. Only residents of the river basin can own land in order to avoid unreachable price increases that would affect local inhabitants.
+
+100. b. A long term migration program would be crafted based on yearly human inflows and outflows in order to grant residency and citizenship.  
 -
 .
 
