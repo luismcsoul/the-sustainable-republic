@@ -4,7 +4,7 @@
 
 1. The countries as we know them today are products of enciclopedic projects guided by the Age of Enlightenment but controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
-2. It would be necessary to reformulate the legislation around corporations in a way that increases legal accountability of individuals, while regulating profits taken in detriment of exploited landscapes, humans and animals.  
+2. It would be necessary to reformulate the legislation from the core of this system in a way that increases legal accountability of individuals, while regulating profits taken in detriment of exploited landscapes, humans and animals.  
 
 3. With the Information Revolution the world has accelerated an oppossite model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of Ultra high-net-worth individuals.
 
