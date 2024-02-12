@@ -162,7 +162,7 @@ Things that work on a scientific basis, like banning the use of lead in gasoline
 ### Residential Property tax
 56. Every citizen pays zero tax for the place where he lives, represented in his own one bedroom, one bathroom, one kitchen and dining room. 
 
-57. The system is planned as a life/cycle of natural upsizing and downsizing proportions. 
+57. The system is planned as a life/cycle of natural upsizing and downsizing proportions: "Hermit Crab Housing Chain".
 
 a. Entry level housing, usually apartments used by young adults, single college students or widowed pensioners.
 
