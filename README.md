@@ -281,7 +281,7 @@ c. Family housing is the ultimate, larger protected ownership strategy including
 ## JUDICIAL BRANCH:
 94. Three different sub branches where professional lawyers follow specific career paths: judges, prosecutors and public defendants. 
 
-95. In the very same way that happened in both the executive and legislative branches, the judicial branch is organized by internal promotions and lawyers can't switch sub branches either. 
+95. In the very same way that happened in both the executive and legislative branches, the judicial branch is organized by internal promotions and lawyers can't switch sub branches neither. 
 
 96. In case a prosecutor is involved in a conflict, and it would be needed to be questioned itself, an "ad hoc" (for this purpose only) prosecutor would be assigned to assume the position until the case is dismissed or sentenced.  
 -
