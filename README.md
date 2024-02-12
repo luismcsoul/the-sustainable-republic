@@ -88,6 +88,8 @@ Things that work on a scientific basis, like banning the use of lead in gasoline
 ## CORPORATIVE STRUCTURES: "TRIPARTITE OWNERSHIP MODEL"
 32. All companies are at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% non voting shares are owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto shareholder). 
 
+32. b. No holding companies or other third party entities are allowed in order to avoid power concentration, market manipulation and tax avoidance. 
+
 33. The intention behind these policies is to focus the attention of investors in financing start ups as a road towards wealth. 
  
 34. Accounting will be public in real time per transaction, and financial reports will be publicly shared on a daily basis. 
