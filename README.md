@@ -168,7 +168,7 @@ a. Entry level housing, usually apartments used by young adults, single college 
 
 b. Couple housing is an intermediate level of housing where rights are legally splitted between the dwellers and constitute de facto financial partnership during the rental time. 
 
-c. Family housing is the ultimate, larger protected ownership strategy including a backward, garage and garden.
+c. Family housing is the ultimate, larger protected ownership strategy including a backyard, garage and garden.
 
 58. Special considerations have been taken in order to grant medical attention to pregnant women, newborns and elders by placing their residences closer to medical facilities. 
 
