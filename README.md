@@ -86,7 +86,7 @@ Things that work on a scientific basis, like banning the use of lead in gasoline
 -
 .
 ## CORPORATIVE STRUCTURES: "TRIPARTITE OWNERSHIP MODEL"
-32. All companies are at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% non voting shares are owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto shareholder). A fourth percentange will be progressively transferred to the customers. With each purchase, the customers will be getting fractional shares, this will have an effect of stock dilution in favor of the customers. 
+32. All companies are at the same time Capitalists (48% is granted as non voting shares to investors), state owned (1% non voting shares are owned by the state accounting service) and private (51% is owned by the employees of the company proportionate to their contributions and every employee is the facto shareholder). A fourth percentange will be progressively transferred to the customers. With each purchase, the customers will be getting fractional shares, this will have an effect of stock dilution in favor of the customers. Notice how the percentages are flexible and will follow the development of the corporation from startup.  
 
 33. The intention behind these policies is to focus the attention of investors in financing start ups as a road towards wealth. 
  
