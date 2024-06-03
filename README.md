@@ -4,13 +4,13 @@
 
 1. The countries as we know them today are products of enciclopedic projects guided by the Age of Enlightenment but controlled from the beginning by the sponsoring 'affluents' and corporations (nowadays). 
 
-2. It would be necessary to reformulate the legislation around corporations in a way that increases legal accountability of individuals, while regulating profits taken in detriment of exploited landscapes, humans and animals.  
+2. It would be necessary to reformulate the legislation around corporations in a way that increases legal accountability of individuals, while regulating the profits taken in detriment of exploited landscapes, humans and animals.  
 
-3. With the Information Revolution the world has accelerated an oppossite model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are being used to amplify generational privileges of Ultra high-net-worth individuals.
+3. With the Information Revolution the world has accelerated an oppossite model: absolutely all sorts of medical, intelectual, productivity variables correlated to environmental, cultural and dietary factors are used to map the world to the edge of unrest, testing the sanity of the system.
 
-4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell advertising. This advertisement comes from consumer oriented corporations avoiding environmental and health charges. Both mega tech and consumer oriented corporations sponsor campaigns of corrupt politicians in order to secure laws that perpetuate and amplify their faulty practices.
+4. Current mega tech algorithms are based on maximazing the time the users are kept entertained in order to sell advertising. This advertisement comes from consumer oriented corporations avoiding environmental and health charges. Both mega tech and consumer oriented corporations sponsor campaigns of corrupt politicians in order to secure laws that perpetuate and amplify their faulty practices. The loop.
 
-5. We are living a dystopian control system based on algorithms presented as Constitutions, Laws, Manuals, etc. collectively known as the rules of the game.   
+5. We are living a dystopian control system based on algorithms presented as Constitutions, Laws, Manuals, etc. collectively known as the rules of the game or, in other words, "the code".   
 
 6. The idea of the sustainable republic is to signal reprogramming routes to ongoing corporative/monopolistic tendencies, understanding that human constitutions and laws work as code and therefore we must pursue "an algorithm that offers alternative governance". 
 -
@@ -36,9 +36,9 @@
 
 14. Models for evaluating standardized good governance were never thought until now when all works are using big data, machine learning and artificial intelligence to pursue logic processing of tasks. 
 
-15. The ideal template of governmental management would imply the final goal of zero public officers: Automation. 
+15. It is our responsibility as ideologists to study every country/farm and select/handpick from them the best proven policies (one by one) to construct a republic with the best features of existing republics and added features currently yet to be implemented.
 
-16. It is our responsibility as ideologists to study every country/farm and select/handpick from them the best proven policies (one by one) to construct a republic with the best features of existing republics and added features currently yet to be implemented. 
+16. The law is above all, and watching us down. There´s a global guide that works, we are just in the process of figuring it out.
 -
 .
 ## THIRD PART: "A TRANSITORY MODEL-A SCHOLASTIC/GENERATIONAL/MERITOCRATIC TECHNOCRACY"
